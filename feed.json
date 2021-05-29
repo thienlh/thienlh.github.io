@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://thien.micro.blog/2021/05/28/tragedies-are-everywhere.html",
+				"title": "Tragedies are everywhere",
+				"content_html": "<p><a href=\"https://www.nytimes.com/interactive/2021/05/26/world/asia/orphan-girl-china.html\">The Tragedy in Small-Town China by The New York Times</a>:</p>\n\n<p>Every once in a while, I stumble upon a great story. A long time ago is <a href=\"https://www.theverge.com/2014/1/21/5307992/inside-the-mind-of-a-fanboy\">Fanboys by The Verge</a>. Now is this piece from the Times.</p>\n\n<p>Both of them are great for very similar reasons, the visuals are <em>eye-opening</em>, the reportings are <em>phenomenal</em>, and the problems they reported are <em>real</em>.</p>\n",
+				"content_text": "[The Tragedy in Small-Town China by The New York Times](https://www.nytimes.com/interactive/2021/05/26/world/asia/orphan-girl-china.html):\n\nEvery once in a while, I stumble upon a great story. A long time ago is [Fanboys by The Verge](https://www.theverge.com/2014/1/21/5307992/inside-the-mind-of-a-fanboy). Now is this piece from the Times. \n\nBoth of them are great for very similar reasons, the visuals are _eye-opening_, the reportings are _phenomenal_, and the problems they reported are _real_.\n",
+				"date_published": "2021-05-28T07:47:00+07:00",
+				"url": "http://www.thien.fun/2021/05/28/tragedies-are-everywhere.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://thien.micro.blog/2021/05/26/what-are-you.html",
+				
+				"content_html": "<p><a href=\"https://youtu.be/JXeJANDKwDc\">What Are You Doing With Your Life? The Tail End - Kurzgesagt</a>:</p>\n\n<p>I have a small number of videos in my Favorites playlist on YouTube, but two of them are from Kurzgesagt already.\nMoreover, both of them seem to have a common theme&hellip;</p>\n\n<p><strong>See also</strong>: <a href=\"https://youtu.be/h6fcK_fRYaI\">The Egg - A Short Story</a> by <a href=\"https://en.wikipedia.org/wiki/Andy_Weir\">Andy Weir</a></p>\n",
+				"content_text": "[What Are You Doing With Your Life? The Tail End - Kurzgesagt](https://youtu.be/JXeJANDKwDc):\n\nI have a small number of videos in my Favorites playlist on YouTube, but two of them are from Kurzgesagt already.\nMoreover, both of them seem to have a common theme...\n\n__See also__: [The Egg - A Short Story](https://youtu.be/h6fcK_fRYaI) by [Andy Weir](https://en.wikipedia.org/wiki/Andy_Weir)\n",
+				"date_published": "2021-05-26T10:28:00+07:00",
+				"url": "http://www.thien.fun/2021/05/26/what-are-you.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://thien.micro.blog/2021/05/22/robert-lewandowski-the.html",
+				"title": "Robert Lewandowski The Goal Machine",
+				"content_html": "<p><a href=\"https://www.nytimes.com/2021/05/08/sports/soccer/bayern-munich-robert-lewandowski.html\">The Making of a Goal Machine - The New York Times</a>:</p>\n\n<blockquote>\n<p>Robert Lewandowski scored his 41st goal of the season, breaking the Bundesliga record, in the 90th minute of Bayern’s final game, a win against Augsburg on May 22.</p>\n</blockquote>\n\n<p>Extraordinary story from The New York Times on the making of Robert Lewandowski. I wish all members of the Vietnamese national team could read it before playing in the upcoming\nWorld cup qualification, heck, the U22 team too.</p>\n\n<blockquote>\n<p>In that fraction of a second, the 32-year-old Lewandowski still noticed the following things: where Marwin Hitz, the Dortmund goalkeeper, was positioned on his line; when and how Hitz set himself to react to his shot; which of Dortmund’s defenders closed him down and which backed away; and the complex interplay of angles that accompanied their movements.</p>\n\n<p>He took all that in, computed it and reached a conclusion. “I thought that next time, maybe it would be possible to score either between the legs or to go for the far post,” he said. He logged it for later.</p>\n</blockquote>\n\n<p>Continuous learning is his recipe for success, as with many other successful people. Try to be great by sucking less everyday.</p>\n",
+				"content_text": "[The Making of a Goal Machine - The New York Times](https://www.nytimes.com/2021/05/08/sports/soccer/bayern-munich-robert-lewandowski.html):\n   \n> Robert Lewandowski scored his 41st goal of the season, breaking the Bundesliga record, in the 90th minute of Bayern’s final game, a win against Augsburg on May 22.\n\nExtraordinary story from The New York Times on the making of Robert Lewandowski. I wish all members of the Vietnamese national team could read it before playing in the upcoming\nWorld cup qualification, heck, the U22 team too.   \n\n> In that fraction of a second, the 32-year-old Lewandowski still noticed the following things: where Marwin Hitz, the Dortmund goalkeeper, was positioned on his line; when and how Hitz set himself to react to his shot; which of Dortmund’s defenders closed him down and which backed away; and the complex interplay of angles that accompanied their movements.\n> \n> He took all that in, computed it and reached a conclusion. “I thought that next time, maybe it would be possible to score either between the legs or to go for the far post,” he said. He logged it for later. \n\nContinuous learning is his recipe for success, as with many other successful people. Try to be great by sucking less everyday.\n",
+				"date_published": "2021-05-22T23:38:00+07:00",
+				"url": "http://www.thien.fun/2021/05/22/robert-lewandowski-the.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://thien.micro.blog/2021/05/22/mac-m-css.html",
+				"title": "iMac 24\" 2021 (M1) CSS color codes",
+				"content_html": "<pre><code class=\"language-css\">--pink: #b72c31;\n--orange: #e36942;\n--yellow: #d48207;\n--green: #10505b;\n--blue: #25476d;\n--purple: #353a71;\n--silver: #c7c8ca;\n--pink-light: #eeb8b0;\n--orange-light: #e9aa95;\n--yellow-light: #eaca96;\n--green-light: #a4beb2;\n--blue-light: #a8bed2;\n--purple-light: #abacca;\n</code></pre>\n\n<p><strong>Source</strong>: <a href=\"https://web.archive.org/web/20210521000524/https://www.apple.com/imac-24/\">Apple</a></p>\n",
+				"content_text": "```css\n--pink: #b72c31;\n--orange: #e36942;\n--yellow: #d48207;\n--green: #10505b;\n--blue: #25476d;\n--purple: #353a71;\n--silver: #c7c8ca;\n--pink-light: #eeb8b0;\n--orange-light: #e9aa95;\n--yellow-light: #eaca96;\n--green-light: #a4beb2;\n--blue-light: #a8bed2;\n--purple-light: #abacca;\n```\n\n__Source__: [Apple](https://web.archive.org/web/20210521000524/https://www.apple.com/imac-24/)\n",
+				"date_published": "2021-05-22T17:41:00+07:00",
+				"url": "http://www.thien.fun/2021/05/22/mac-m-css.html",
+				"tags": ["programming"]
+			},
+			{
 				"id": "http://thien.micro.blog/2021/05/20/i-can-design.html",
 				"title": "I can design my own work schedule",
 				"content_html": "<p><a href=\"https://world.hey.com/jason/active-away-how-about-neither-ed70fd69\">Active? Away? How about neither - Jason Fried</a>:</p>\n\n<blockquote>\n<p>Everyone’s status should be implicit: I’m trying to do my job, please respect my time and attention.</p>\n</blockquote>\n\n<p>For me it is very simple:</p>\n\n<ul>\n  <li>I will turn off my availability and status on instant messaging apps.</li>\n  <li>\n    We should choose asynchronous communication over synchronous communication\n    whenever possible.\n  </li>\n  <li>If you want to know when I'm available, ask nicely.</li>\n  <li>\n    If you don't trust my ability to design my own work schedule, why bother\n    hiring me at all? We better not working together.\n  </li>\n</ul>\n\n<p>In general, if you treat someone like a 13 years old, she will behave like a 13 years old; if you treat a 13 years old like an adult, she will try her best to behave like an adult.</p>\n",
@@ -18,9 +54,9 @@
 			{
 				"id": "http://thien.micro.blog/2021/05/18/yellow-walls-hi.html",
 				
-				"content_html": "<figure>\n    <img src=\"uploads/2021/2861fa250a.jpg\" width=\"600\" height=\"450\" alt=\"Hoi An yello wall 2017\" title=\"Yellow walls\" /> \n    <figcaption>\n        Yellow walls, Hội An (12017)\n    </figcaption>\n</figure>\n",
-				"content_text": "<figure>\r\n\t<img src=\"uploads/2021/2861fa250a.jpg\" width=\"600\" height=\"450\" alt=\"Hoi An yello wall 2017\" title=\"Yellow walls\" /> \r\n\t<figcaption>\r\n\t\tYellow walls, Hội An (12017)\r\n\t</figcaption>\r\n</figure>\r\n",
-				"date_published": "2021-05-18T23:05:06+07:00",
+				"content_html": "<figure>\n  <img\n    src=\"https://www.thien.fun/uploads/2021/2861fa250a.jpg\"\n    width=\"600\"\n    height=\"450\"\n    alt=\"Hoi An yello wall 2017\"\n    title=\"Yellow walls\"\n  />\n  <figcaption>Yellow walls, Hội An (12017)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n  <img\n    src=\"https://www.thien.fun/uploads/2021/2861fa250a.jpg\"\n    width=\"600\"\n    height=\"450\"\n    alt=\"Hoi An yello wall 2017\"\n    title=\"Yellow walls\"\n  />\n  <figcaption>Yellow walls, Hội An (12017)</figcaption>\n</figure>\n",
+				"date_published": "2021-05-18T23:05:00+07:00",
 				"url": "http://www.thien.fun/2021/05/18/yellow-walls-hi.html",
 				"tags": ["photography"]
 			},
@@ -135,8 +171,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/04/18/where-theres-a.html",
 				
-				"content_html": "<figure>\n    <img src=\"https://thien.micro.blog/uploads/2021/be6ab73873.jpg\" width=\"600\" height=\"598\" alt=\"Book street Ho Chi Minh city Vietnam 2017\" title=\"Where there's a will - there's a way\"/>\n    <figcaption>Where there's a will - there's a way (12017)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n\t<img src=\"https://thien.micro.blog/uploads/2021/be6ab73873.jpg\" width=\"600\" height=\"598\" alt=\"Book street Ho Chi Minh city Vietnam 2017\" title=\"Where there's a will - there's a way\"/>\n\t<figcaption>Where there's a will - there's a way (12017)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n    <img src=\"uploads/2021/be6ab73873.jpg\" width=\"600\" height=\"598\" alt=\"Book street Ho Chi Minh city Vietnam 2017\" title=\"Where there's a will - there's a way\"/>\n    <figcaption>Where there's a will - there's a way (12017)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n\t<img src=\"uploads/2021/be6ab73873.jpg\" width=\"600\" height=\"598\" alt=\"Book street Ho Chi Minh city Vietnam 2017\" title=\"Where there's a will - there's a way\"/>\n\t<figcaption>Where there's a will - there's a way (12017)</figcaption>\n</figure>\n",
 				"date_published": "2021-04-18T00:23:00+07:00",
 				"url": "http://www.thien.fun/2021/04/18/where-theres-a.html",
 				"tags": ["photography"]
@@ -171,8 +207,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/04/11/h-tin.html",
 				
-				"content_html": "<figure>\n  <img\n    src=\"https://thien.micro.blog/uploads/2021/743930bd89.jpg\"\n    width=\"600\"\n    height=\"449\"\n    alt=\"Ha Tien Vietnam 2017\"\n    title=\"Đảo Hải tặc\"\n  />\n  <figcaption>Hà Tiên (12017)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n  <img\n    src=\"https://thien.micro.blog/uploads/2021/743930bd89.jpg\"\n    width=\"600\"\n    height=\"449\"\n    alt=\"Ha Tien Vietnam 2017\"\n\ttitle=\"Đảo Hải tặc\"\n  />\n  <figcaption>Hà Tiên (12017)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n  <img\n    src=\"https://thien.fun/uploads/2021/743930bd89.jpg\"\n    width=\"600\"\n    height=\"449\"\n    alt=\"Ha Tien Vietnam 2017\"\n    title=\"Đảo Hải tặc\"\n  />\n  <figcaption>Hà Tiên (12017)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n  <img\n    src=\"https://thien.fun/uploads/2021/743930bd89.jpg\"\n    width=\"600\"\n    height=\"449\"\n    alt=\"Ha Tien Vietnam 2017\"\n\ttitle=\"Đảo Hải tặc\"\n  />\n  <figcaption>Hà Tiên (12017)</figcaption>\n</figure>\n",
 				"date_published": "2021-04-11T09:48:00+07:00",
 				"url": "http://www.thien.fun/2021/04/11/h-tin.html",
 				"tags": ["photography"]
@@ -207,8 +243,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/04/06/thm-i-du.html",
 				
-				"content_html": "<figure>\n<img src=\"https://thien.micro.blog/uploads/2021/59b4e10aef.jpg\" width=\"592\" height=\"590\" alt=\"Hai tac island ha tien Vietnam\" title=\"Long distance friends\" />\n  <figcaption>Long distance friends (12017)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n<img src=\"https://thien.micro.blog/uploads/2021/59b4e10aef.jpg\" width=\"592\" height=\"590\" alt=\"Hai tac island ha tien Vietnam\" title=\"Long distance friends\" />\n  <figcaption>Long distance friends (12017)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n<img src=\"https://thien.fun/uploads/2021/59b4e10aef.jpg\" width=\"592\" height=\"590\" alt=\"Hai tac island ha tien Vietnam\" title=\"Long distance friends\" />\n  <figcaption>Long distance friends (12017)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n<img src=\"https://thien.fun/uploads/2021/59b4e10aef.jpg\" width=\"592\" height=\"590\" alt=\"Hai tac island ha tien Vietnam\" title=\"Long distance friends\" />\n  <figcaption>Long distance friends (12017)</figcaption>\n</figure>\n",
 				"date_published": "2021-04-06T19:54:00+07:00",
 				"url": "http://www.thien.fun/2021/04/06/thm-i-du.html",
 				"tags": ["photography"]
@@ -216,8 +252,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/04/01/o-hi-tc.html",
 				
-				"content_html": "<figure>\n    <img src=\"https://thien.micro.blog/uploads/2021/9ea4101402.jpg\" width=\"600\" height=\"799\" alt=\"Father and son hai tac island ha tien vietnam\" title=\"Father and Son\" />\n    <figcaption>Father and Son (12017)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n\t<img src=\"https://thien.micro.blog/uploads/2021/9ea4101402.jpg\" width=\"600\" height=\"799\" alt=\"Father and son hai tac island ha tien vietnam\" title=\"Father and Son\" />\n\t<figcaption>Father and Son (12017)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n    <img src=\"https://thien.fun/uploads/2021/9ea4101402.jpg\" width=\"600\" height=\"799\" alt=\"Father and son hai tac island ha tien vietnam\" title=\"Father and Son\" />\n    <figcaption>Father and Son (12017)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n\t<img src=\"https://thien.fun/uploads/2021/9ea4101402.jpg\" width=\"600\" height=\"799\" alt=\"Father and son hai tac island ha tien vietnam\" title=\"Father and Son\" />\n\t<figcaption>Father and Son (12017)</figcaption>\n</figure>\n",
 				"date_published": "2021-04-01T18:29:00+07:00",
 				"url": "http://www.thien.fun/2021/04/01/o-hi-tc.html",
 				"tags": ["photography"]
@@ -252,8 +288,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/03/24/cng-c-ph.html",
 				
-				"content_html": "<figure>\n    <img src=\"https://thien.micro.blog/uploads/2021/05e1e6928b.jpg\" alt= \"Cong ca phe Da Nang Vietnam 2017\" title=\"Coffee with her\" />\n    <figcaption>Coffee with her (12017)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n\t<img src=\"https://thien.micro.blog/uploads/2021/05e1e6928b.jpg\" alt= \"Cong ca phe Da Nang Vietnam 2017\" title=\"Coffee with her\" />\n\t<figcaption>Coffee with her (12017)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n    <img src=\"https://thien.fun/uploads/2021/05e1e6928b.jpg\" alt= \"Cong ca phe Da Nang Vietnam 2017\" title=\"Coffee with her\" />\n    <figcaption>Coffee with her (12017)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n\t<img src=\"https://thien.fun/uploads/2021/05e1e6928b.jpg\" alt= \"Cong ca phe Da Nang Vietnam 2017\" title=\"Coffee with her\" />\n\t<figcaption>Coffee with her (12017)</figcaption>\n</figure>\n",
 				"date_published": "2021-03-24T19:17:00+07:00",
 				"url": "http://www.thien.fun/2021/03/24/cng-c-ph.html",
 				"tags": ["photography"]
@@ -297,8 +333,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/03/13/duys-house.html",
 				
-				"content_html": "<figure>\n  <img src=\"https://thien.micro.blog/uploads/2021/22ac590b27.jpg\" width=\"600\" height=\"800\" alt=\"Ngu Hanh Son Da Nang Vietnam 2019\" title=\"Duy's house\" />\n  <figcaption>Duy's house (12019)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n  <img src=\"https://thien.micro.blog/uploads/2021/22ac590b27.jpg\" width=\"600\" height=\"800\" alt=\"Ngu Hanh Son Da Nang Vietnam 2019\" title=\"Duy's house\" />\n  <figcaption>Duy's house (12019)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/22ac590b27.jpg\" width=\"600\" height=\"800\" alt=\"Ngu Hanh Son Da Nang Vietnam 2019\" title=\"Duy's house\" />\n  <figcaption>Duy's house (12019)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/22ac590b27.jpg\" width=\"600\" height=\"800\" alt=\"Ngu Hanh Son Da Nang Vietnam 2019\" title=\"Duy's house\" />\n  <figcaption>Duy's house (12019)</figcaption>\n</figure>\n",
 				"date_published": "2021-03-13T17:06:00+07:00",
 				"url": "http://www.thien.fun/2021/03/13/duys-house.html",
 				"tags": ["photography"]
@@ -306,8 +342,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/02/28/hi-tc-island.html",
 				
-				"content_html": "<figure>\n  <img src=\"https://thien.micro.blog/uploads/2021/50800f5b40.jpg\" alt=\"Ha Tien\" title=\"Hải tặc island\"/>\n  <figcaption>Hải tặc island (12017)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n  <img src=\"https://thien.micro.blog/uploads/2021/50800f5b40.jpg\" alt=\"Ha Tien\" title=\"Hải tặc island\"/>\n  <figcaption>Hải tặc island (12017)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/50800f5b40.jpg\" alt=\"Ha Tien\" title=\"Hải tặc island\"/>\n  <figcaption>Hải tặc island (12017)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/50800f5b40.jpg\" alt=\"Ha Tien\" title=\"Hải tặc island\"/>\n  <figcaption>Hải tặc island (12017)</figcaption>\n</figure>\n",
 				"date_published": "2021-02-28T08:09:00+07:00",
 				"url": "http://www.thien.fun/2021/02/28/hi-tc-island.html",
 				"tags": ["photography"]
@@ -315,8 +351,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/02/24/programming-is-easy.html",
 				"title": "Programming Is Easy",
-				"content_html": "<figure>\n  <img src=\"https://thien.micro.blog/uploads/2021/7d805ece6d.jpg\" width=\"600\" height=\"566\" alt=\"agile estimation\" title=\"True story estimation session\" />\n  <figcaption>True story estimation session (12021)</figcaption>\n</figure>\n\n<p><strong>See also</strong>: <a href=\"https://www.thien.fun/2020/05/17/another-great-programming.html\">Common reasons that software projects fail</a></p>\n",
-				"content_text": "<figure>\n  <img src=\"https://thien.micro.blog/uploads/2021/7d805ece6d.jpg\" width=\"600\" height=\"566\" alt=\"agile estimation\" title=\"True story estimation session\" />\n  <figcaption>True story estimation session (12021)</figcaption>\n</figure>\n\n\n**See also**: [Common reasons that software projects fail](https://www.thien.fun/2020/05/17/another-great-programming.html)\n",
+				"content_html": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/7d805ece6d.jpg\" width=\"600\" height=\"566\" alt=\"agile estimation\" title=\"True story estimation session\" />\n  <figcaption>True story estimation session (12021)</figcaption>\n</figure>\n\n<p><strong>See also</strong>: <a href=\"https://www.thien.fun/2020/05/17/another-great-programming.html\">Common reasons that software projects fail</a></p>\n",
+				"content_text": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/7d805ece6d.jpg\" width=\"600\" height=\"566\" alt=\"agile estimation\" title=\"True story estimation session\" />\n  <figcaption>True story estimation session (12021)</figcaption>\n</figure>\n\n\n**See also**: [Common reasons that software projects fail](https://www.thien.fun/2020/05/17/another-great-programming.html)\n",
 				"date_published": "2021-02-24T03:57:00+07:00",
 				"url": "http://www.thien.fun/2021/02/24/programming-is-easy.html",
 				"tags": ["programming"]
@@ -324,8 +360,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/02/23/hi-an-april.html",
 				
-				"content_html": "<figure>\n  <img src=\"https://thien.micro.blog/uploads/2021/69994ad171.jpg\" width=\"600\" height=\"597\" alt=\"Hoi An 2018\" title=\"Hội An\" />\n  <figcaption>Hội An (April, 12018)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n  <img src=\"https://thien.micro.blog/uploads/2021/69994ad171.jpg\" width=\"600\" height=\"597\" alt=\"Hoi An 2018\" title=\"Hội An\" />\n  <figcaption>Hội An (April, 12018)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/69994ad171.jpg\" width=\"600\" height=\"597\" alt=\"Hoi An 2018\" title=\"Hội An\" />\n  <figcaption>Hội An (April, 12018)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/69994ad171.jpg\" width=\"600\" height=\"597\" alt=\"Hoi An 2018\" title=\"Hội An\" />\n  <figcaption>Hội An (April, 12018)</figcaption>\n</figure>\n",
 				"date_published": "2021-02-23T00:50:52+07:00",
 				"url": "http://www.thien.fun/2021/02/23/hi-an-april.html",
 				"tags": ["photography"]
@@ -342,8 +378,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/02/20/c-di-pleiku.html",
 				
-				"content_html": "<figure>\n  <img src=\"https://thien.micro.blog/uploads/2021/d3e7a7f6ce.jpg\" width=\"600\" height=\"600\" alt=\"Co dai 2018\" title=\"Cỏ dại Pleiku\" />\n  <figcaption>Cỏ dại Pleiku (12018)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n  <img src=\"https://thien.micro.blog/uploads/2021/d3e7a7f6ce.jpg\" width=\"600\" height=\"600\" alt=\"Co dai 2018\" title=\"Cỏ dại Pleiku\" />\n  <figcaption>Cỏ dại Pleiku (12018)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/d3e7a7f6ce.jpg\" width=\"600\" height=\"600\" alt=\"Co dai 2018\" title=\"Cỏ dại Pleiku\" />\n  <figcaption>Cỏ dại Pleiku (12018)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/d3e7a7f6ce.jpg\" width=\"600\" height=\"600\" alt=\"Co dai 2018\" title=\"Cỏ dại Pleiku\" />\n  <figcaption>Cỏ dại Pleiku (12018)</figcaption>\n</figure>\n",
 				"date_published": "2021-02-20T21:36:00+07:00",
 				"url": "http://www.thien.fun/2021/02/20/c-di-pleiku.html",
 				"tags": ["photography"]
@@ -360,8 +396,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/02/18/hoa-mai.html",
 				
-				"content_html": "<figure>\n  <img src=\"https://thien.micro.blog/uploads/2021/718752f956.jpg\" width=\"600\" height=\"451\" alt=\"Hoa mai Vietnam 2018\" title=\"Hoa mai\" />\n  <figcaption>Hoa mai (12018)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n  <img src=\"https://thien.micro.blog/uploads/2021/718752f956.jpg\" width=\"600\" height=\"451\" alt=\"Hoa mai Vietnam 2018\" title=\"Hoa mai\" />\n  <figcaption>Hoa mai (12018)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/718752f956.jpg\" width=\"600\" height=\"451\" alt=\"Hoa mai Vietnam 2018\" title=\"Hoa mai\" />\n  <figcaption>Hoa mai (12018)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/718752f956.jpg\" width=\"600\" height=\"451\" alt=\"Hoa mai Vietnam 2018\" title=\"Hoa mai\" />\n  <figcaption>Hoa mai (12018)</figcaption>\n</figure>\n",
 				"date_published": "2021-02-18T21:40:00+07:00",
 				"url": "http://www.thien.fun/2021/02/18/hoa-mai.html",
 				"tags": ["photography"]
@@ -369,8 +405,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/02/16/tt-pleiku.html",
 				
-				"content_html": "<figure>\n  <img src=\"https://thien.micro.blog/uploads/2021/46be27b493.jpg\" width=\"600\" height=\"600\" alt=\"Tet 2018\" title=\"Tết Pleiku\" />\n  <figcaption>Tết Pleiku (12018)</figcaption>\n  </figure>\n",
-				"content_text": "<figure>\n  <img src=\"https://thien.micro.blog/uploads/2021/46be27b493.jpg\" width=\"600\" height=\"600\" alt=\"Tet 2018\" title=\"Tết Pleiku\" />\n  <figcaption>Tết Pleiku (12018)</figcaption>\n  </figure>\n",
+				"content_html": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/46be27b493.jpg\" width=\"600\" height=\"600\" alt=\"Tet 2018\" title=\"Tết Pleiku\" />\n  <figcaption>Tết Pleiku (12018)</figcaption>\n  </figure>\n",
+				"content_text": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/46be27b493.jpg\" width=\"600\" height=\"600\" alt=\"Tet 2018\" title=\"Tết Pleiku\" />\n  <figcaption>Tết Pleiku (12018)</figcaption>\n  </figure>\n",
 				"date_published": "2021-02-16T08:49:15+07:00",
 				"url": "http://www.thien.fun/2021/02/16/tt-pleiku.html",
 				"tags": ["photography"]
@@ -396,8 +432,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/02/13/hi-an.html",
 				
-				"content_html": "<figure>\n    <img src=\"https://thien.micro.blog/uploads/2021/f8cafc1304.jpg\" width=\"600\" height=\"452\" alt=\"Hoi An Vietnam 2017\" title=\"Hội An\" />\n  <figcaption>Hội An (12017)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n\t<img src=\"https://thien.micro.blog/uploads/2021/f8cafc1304.jpg\" width=\"600\" height=\"452\" alt=\"Hoi An Vietnam 2017\" title=\"Hội An\" />\n  <figcaption>Hội An (12017)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n    <img src=\"https://thien.fun/uploads/2021/f8cafc1304.jpg\" width=\"600\" height=\"452\" alt=\"Hoi An Vietnam 2017\" title=\"Hội An\" />\n  <figcaption>Hội An (12017)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n\t<img src=\"https://thien.fun/uploads/2021/f8cafc1304.jpg\" width=\"600\" height=\"452\" alt=\"Hoi An Vietnam 2017\" title=\"Hội An\" />\n  <figcaption>Hội An (12017)</figcaption>\n</figure>\n",
 				"date_published": "2021-02-13T22:07:00+07:00",
 				"url": "http://www.thien.fun/2021/02/13/hi-an.html",
 				"tags": ["photography"]
@@ -405,8 +441,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/02/13/cng-c-ph.html",
 				
-				"content_html": "<figure>\n  <img src=\"https://thien.micro.blog/uploads/2021/67f8e0506e.jpg\" width=\"600\" height=\"696\" alt=\"Cong ca phe Da Nang 2021\" title=\"Cộng cà phê\" />\n  <figcaption>Cộng cà phê, Đà Nẵng (12021)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n  <img src=\"https://thien.micro.blog/uploads/2021/67f8e0506e.jpg\" width=\"600\" height=\"696\" alt=\"Cong ca phe Da Nang 2021\" title=\"Cộng cà phê\" />\n  <figcaption>Cộng cà phê, Đà Nẵng (12021)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/67f8e0506e.jpg\" width=\"600\" height=\"696\" alt=\"Cong ca phe Da Nang 2021\" title=\"Cộng cà phê\" />\n  <figcaption>Cộng cà phê, Đà Nẵng (12021)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/67f8e0506e.jpg\" width=\"600\" height=\"696\" alt=\"Cong ca phe Da Nang 2021\" title=\"Cộng cà phê\" />\n  <figcaption>Cộng cà phê, Đà Nẵng (12021)</figcaption>\n</figure>\n",
 				"date_published": "2021-02-13T09:01:00+07:00",
 				"url": "http://www.thien.fun/2021/02/13/cng-c-ph.html",
 				"tags": ["photography"]
