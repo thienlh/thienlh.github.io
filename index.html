@@ -24,6 +24,118 @@
 	
       <div class="h-entry">
 		
+			<h1><a href="http://www.thien.fun/2021/06/02/nhng-ngi-t.html">Những người tử tế</a></h1>
+		
+
+        <a href="http://www.thien.fun/2021/06/02/nhng-ngi-t.html" class="u-url"><time class="dt-published" datetime="2021-06-02 19:02:00 &#43;0700">Jun 2, 2021</time></a>
+
+        <div class="e-content">
+         	<p><a href="https://vnexpress.net/tam-ve-cuoi-ngay-cua-chang-trai-ve-tham-bo-4287606.html&quot;">Tấm vé cuối ngày của chàng trai về thăm bố - VnExpress</a>:</p>
+
+<blockquote>
+<p>Sau khi anh Trí lo xong giấy tờ hỗ trợ bay, đến lượt Thu Thảo làm thủ tục xuất vé thì chàng trai khựng lại, hỏi: "Vé bây giờ nhiều tiền không?".</p>
+<p>Thảo báo giá vé thấp nhất cho chuyến bay cuối cùng lúc 17h50 về sân bay Nội Bài, Hà Nội là 900.000 đồng. Phương móc trong chiếc túi đựng vé số cũ mèm ra một xấp tiền tiền lẻ và nói đây là toàn bộ "gia tài" của mình. Chị Thảo đếm được tổng cộng 350.000 đồng.</p>
+<p>Chàng trai tần ngần rồi nhờ chị Thảo giữ hộ số tiền còn mình định bắt xe ôm về quận 7 vay tiền của bạn rồi quay lại mua vé.</p>
+</blockquote>
+<blockquote>
+<p>Biết thiếu nhưng ảnh không hề hỏi hay nhờ ai ủng hộ mà định quay về đi vay tiền. Tôi thấy rất đáng quý nên cùng mọi người quyết định giúp", Thu Thảo nói.</p>
+</blockquote>
+<blockquote>
+<p>Sau khi nhận vé và lên phòng chờ, anh Phương bịn rịn nói lời cám ơn nhiều lần và hỏi tên mọi người.</p>
+</blockquote>
+
+<p>Câu chuyện về không những một mà nhiều người tử tế. Không những tử tế mà còn tự trọng.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="http://www.thien.fun/2021/06/01/the-testing-hill.html">The Testing Hill Tim Bray Would Die On</a></h1>
+		
+
+        <a href="http://www.thien.fun/2021/06/01/the-testing-hill.html" class="u-url"><time class="dt-published" datetime="2021-06-01 21:47:00 &#43;0700">Jun 1, 2021</time></a>
+
+        <div class="e-content">
+         	<p><a href="https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021">Testing in the Twenties - Tim Bray</a>:</p>
+
+<blockquote>
+<ol>
+<li>Unit tests are an essential investment in your software’s future.<br /></li>
+<li>Test coverage data is useful and you should keep an eye on it.<br /></li>
+<li>Untested legacy code bases can and should be improved incrementally<br /></li>
+<li>Unit tests need to run very quickly with a single IDE key-combo, and it’s perfectly OK to run them every few seconds like a nervous tic.<br /></li>
+<li>There’s no room for testing religions; do what works.<br /></li>
+<li>Unit tests empower code reviewers.<br /></li>
+<li>Integration tests are super important and super hard, particularly in a microservices context.<br /></li>
+<li>Integration tests need to pass 100%, it’s not OK for there to be failures that are ignored.<br /></li>
+<li>Integration tests need to run “fast enough“.<br /></li>
+<li>It’s good for tests to include benchmarks.<br /></li>
+</ol>
+</blockquote>
+
+<p>I think we&rsquo;ve just had a new Testing manifesto. Agree with <em>most</em> of the explanations to those ten points too.</p>
+
+<p><strong>Update</strong>: There is <a href="https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021#c1622579790.996764">a great comment from Jim</a>:</p>
+
+<blockquote>
+<p>Nice article. I&rsquo;d say I have 2 peeves though.</p>
+
+<p>One is your comments about TDD. No offence, but I&rsquo;ve seen similar remarks a lot, and you&rsquo;re a bit offbase there. The reason you don&rsquo;t TDD early on is precisely the same reason I&rsquo;m pretty strict about it. I&rsquo;ve noticed that (the more reasonable of) those of us that are, treat TDD mostly as a design exercise, not a testing one. We just get tests as a bonus. And of course, sometimes the tests need to change, and some I throw away. Your perspective sounds like that of many other people I&rsquo;ve worked with who are looking at it wrong. Something to consider, maybe.</p>
+
+<p>I also do &ldquo;exploratory testing&rdquo; when trying out new libraries, techniques etc, especially in spikes. I find it helps to keep the crap tests then, as a warning for later :-)</p>
+
+<p>Secondly, I think needing to make private methods public in order to test them is a code smell. Almost all the time, there is another class trying to get out. Somewhat more rarely, there is code in private methods that cannot be exercised by calling the public ones, which means there is unnecessary code in the private ones, and it can safely be removed. It&rsquo;s not that I&rsquo;ve never done this, but I can&rsquo;t remember how long ago the last time was.</p>
+
+<p>Everything else I think is very well expressed.</p>
+</blockquote>
+
+<p>I have very similar thoughts to Jim&rsquo;s while reading this article.</p>
+
+<p>We should think of TDD as a helpful practice (for some people) to create well-designed, well-tested code instead of considering it &ldquo;the best and only way to archive <a href="https://www.martinfowler.com/bliki/SelfTestingCode.html">self-testing code</a>.&rdquo;</p>
+
+<p>I do make private methods/properties internal to test their internal state sometimes because it&rsquo;s easier that way. However, I have to think about those cases a lot and also consider them code smells.</p>
+
+<p>Thanks a lot guys.</p>
+
+<p><strong>Another update</strong>: Very quickly, Mr. Fowler himself <a href="https://martinfowler.com/articles/2021-test-shapes.html">steps up and publish his take</a> on the subject.</p>
+
+<p>And as usual, he points out the exact problem - very clearly with pictures. Please go ahead and read the whole thing since quoting his entire post would be weird.</p>
+
+<p>Thanks again, guys!</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="http://www.thien.fun/2021/05/30/chelsea-won-again.html">Chelsea Won, Again!</a></h1>
+		
+
+        <a href="http://www.thien.fun/2021/05/30/chelsea-won-again.html" class="u-url"><time class="dt-published" datetime="2021-05-30 04:34:16 &#43;0700">May 30, 2021</time></a>
+
+        <div class="e-content">
+         	<p><a href="https://en.wikipedia.org/wiki/Roman_Abramovich">Roman Abramovich</a>: See? This sacking thing <em>really</em> works!</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="http://www.thien.fun/2021/05/29/my-alltime-favorite.html" class="u-url"><time class="dt-published" datetime="2021-05-29 23:23:02 &#43;0700">May 29, 2021</time></a>
+
+        <div class="e-content">
+         	<figure>
+  <img src="uploads/2021/cda2ecd958.jpg" width="600" height="450" alt="Son Tra, Da Nang 2017" title="Fish market before the storm" />
+  <figcaption>My all-time favorite picture. Sơn Trà (12017)</figcaption>
+</figure>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
 			<h1><a href="http://www.thien.fun/2021/05/28/tragedies-are-everywhere.html">Tragedies are everywhere</a></h1>
 		
 
@@ -32,9 +144,9 @@
         <div class="e-content">
          	<p><a href="https://www.nytimes.com/interactive/2021/05/26/world/asia/orphan-girl-china.html">The Tragedy in Small-Town China by The New York Times</a>:</p>
 
-<p>Every once in a while, I stumble upon a great story. A long time ago is <a href="https://www.theverge.com/2014/1/21/5307992/inside-the-mind-of-a-fanboy">Fanboys by The Verge</a>. Now is this piece from the Times.</p>
+<p>Every once in a while, I stumble upon a great story. A very long time ago is <a href="https://www.theverge.com/2014/1/21/5307992/inside-the-mind-of-a-fanboy">Fanboys by The Verge</a>. Now is this piece from the Times.</p>
 
-<p>Both of them are great for very similar reasons, the visuals are <em>eye-opening</em>, the reportings are <em>phenomenal</em>, and the problems they reported are <em>real</em>.</p>
+<p>Both of them are great for similar reasons, the visuals are <em>eye-opening</em>, the reportings are <em>phenomenal</em>, and the problems they reported are <em>real</em>.</p>
 
         </div>
       </div>
@@ -128,16 +240,10 @@ World cup qualification, heck, the U22 team too.</p>
 <p>For me it is very simple:</p>
 
 <ul>
-  <li>I will turn off my availability and status on instant messaging apps.</li>
-  <li>
-    We should choose asynchronous communication over synchronous communication
-    whenever possible.
-  </li>
-  <li>If you want to know when I'm available, ask nicely.</li>
-  <li>
-    If you don't trust my ability to design my own work schedule, why bother
-    hiring me at all? We better not working together.
-  </li>
+<li>I will turn off my availability and status on instant messaging apps.<br /></li>
+<li>We should choose asynchronous communication over synchronous communication whenever possible.<br /></li>
+<li>If you want to know when I&rsquo;m available, ask nicely.<br /></li>
+<li>If you don&rsquo;t trust my ability to design my own work schedule, why bother hiring me at all? We better not working together.<br /></li>
 </ul>
 
 <p>In general, if you treat someone like a 13 years old, she will behave like a 13 years old; if you treat a 13 years old like an adult, she will try her best to behave like an adult.</p>
@@ -173,7 +279,7 @@ World cup qualification, heck, the U22 team too.</p>
         <a href="http://www.thien.fun/2021/05/16/just-finished-reading.html" class="u-url"><time class="dt-published" datetime="2021-05-16 16:55:00 &#43;0700">May 16, 2021</time></a>
 
         <div class="e-content">
-         	<p>Just finished reading <a href="https://basecamp.com/books/rework">REWORK by Basecamp&rsquo;s founders Jason Fried &amp; David Heinemeier Hansson (DHH)</a>, Don&rsquo;t scar on the first cut is the part that stuck with me for some reason:</p>
+         	<p>Just finished reading <a href="https://basecamp.com/books/rework">REWORK</a> by Basecamp&rsquo;s founders Jason Fried &amp; David Heinemeier Hansson (DHH), Don&rsquo;t scar on the first cut is the part that stuck with me for some reason:</p>
 
 <blockquote>
 <p>The second something goes wrong, the nature tendency is to create a policy. &ldquo;Someone&rsquo;s wearing shorts!? We need a dress code!&rdquo; No, you don&rsquo;t. You just need to tell John to not to wear shorts again.</p>
@@ -181,7 +287,7 @@ World cup qualification, heck, the U22 team too.</p>
 <p>Policies are organizational scar tissue. They are codified overreactions to situations that are unlikely to happen again. They are collective punishment for the misdeeds of an individual.</p>
 </blockquote>
 
-<p>And what&rsquo;s wrong with wearing shorts to work?</p>
+<p>By the way, what&rsquo;s wrong with wearing shorts to work?</p>
 
         </div>
       </div>
@@ -193,7 +299,7 @@ World cup qualification, heck, the U22 team too.</p>
 
         <div class="e-content">
          	<figure>
-    <img src="uploads/2021/32af3c4733.jpg" width="600" height="823" alt="Hoi An 2017" title="With her" />
+    <img src="https://www.thien.fun/uploads/2021/32af3c4733.jpg" width="600" height="823" alt="Hoi An 2017" title="With her" />
     <figcaption>With her (12017)</figcaption>
 </figure>
 
@@ -207,7 +313,7 @@ World cup qualification, heck, the U22 team too.</p>
 
         <div class="e-content">
          	<figure>
-    <img src="uploads/2021/03b8972ef3.jpg" width="600" height="833" alt="baby girl 2021" title="Watching you" />
+    <img src="https://www.thien.fun/uploads/2021/03b8972ef3.jpg" width="600" height="833" alt="baby girl 2021" title="Watching you" />
     <figcaption>Watching you (12021)</figcaption>
 </figure>
 
@@ -442,7 +548,7 @@ World cup qualification, heck, the U22 team too.</p>
 
         <div class="e-content">
          	<figure>
-    <img src="uploads/2021/be6ab73873.jpg" width="600" height="598" alt="Book street Ho Chi Minh city Vietnam 2017" title="Where there's a will - there's a way"/>
+    <img src="https://www.thien.fun/uploads/2021/be6ab73873.jpg" width="600" height="598" alt="Book street Ho Chi Minh city Vietnam 2017" title="Where there's a will - there's a way"/>
     <figcaption>Where there's a will - there's a way (12017)</figcaption>
 </figure>
 
@@ -517,7 +623,7 @@ World cup qualification, heck, the U22 team too.</p>
         <div class="e-content">
          	<figure>
   <img
-    src="https://thien.fun/uploads/2021/743930bd89.jpg"
+    src="https://www.thien.fun/uploads/2021/743930bd89.jpg"
     width="600"
     height="449"
     alt="Ha Tien Vietnam 2017"
@@ -551,7 +657,7 @@ World cup qualification, heck, the U22 team too.</p>
 <p>There’s nothing wrong with commercial software — NetNewsWire was commercial software for many, many years — but it’s also a great freedom to us that it’s <em>not</em>. And it allows us to make something much greater than I would have made all on my own.</p>
 </blockquote>
 
-<p>I have a feeling that this is the exact situation that the great text editor <a href="https://macromates.com">TextMate</a> is in, and they are going in this direction as well.</p>
+<p>I have a feeling that this is the exact situation that <a href="https://macromates.com">the great text editor TextMate</a> is in, and they are going in this direction as well.</p>
 
 <p>The sad part is:</p>
 
@@ -607,7 +713,7 @@ World cup qualification, heck, the U22 team too.</p>
 
         <div class="e-content">
          	<figure>
-<img src="https://thien.fun/uploads/2021/59b4e10aef.jpg" width="592" height="590" alt="Hai tac island ha tien Vietnam" title="Long distance friends" />
+<img src="https://www.thien.fun/uploads/2021/59b4e10aef.jpg" width="592" height="590" alt="Hai tac island ha tien Vietnam" title="Long distance friends" />
   <figcaption>Long distance friends (12017)</figcaption>
 </figure>
 
@@ -621,7 +727,7 @@ World cup qualification, heck, the U22 team too.</p>
 
         <div class="e-content">
          	<figure>
-    <img src="https://thien.fun/uploads/2021/9ea4101402.jpg" width="600" height="799" alt="Father and son hai tac island ha tien vietnam" title="Father and Son" />
+    <img src="https://www.thien.fun/uploads/2021/9ea4101402.jpg" width="600" height="799" alt="Father and son hai tac island ha tien vietnam" title="Father and Son" />
     <figcaption>Father and Son (12017)</figcaption>
 </figure>
 
@@ -682,7 +788,7 @@ World cup qualification, heck, the U22 team too.</p>
 
         <div class="e-content">
          	<figure>
-    <img src="https://thien.fun/uploads/2021/05e1e6928b.jpg" alt= "Cong ca phe Da Nang Vietnam 2017" title="Coffee with her" />
+    <img src="https://www.thien.fun/uploads/2021/05e1e6928b.jpg" alt= "Cong ca phe Da Nang Vietnam 2017" title="Coffee with her" />
     <figcaption>Coffee with her (12017)</figcaption>
 </figure>
 
@@ -770,7 +876,7 @@ World cup qualification, heck, the U22 team too.</p>
 
         <div class="e-content">
          	<figure>
-  <img src="https://thien.fun/uploads/2021/22ac590b27.jpg" width="600" height="800" alt="Ngu Hanh Son Da Nang Vietnam 2019" title="Duy's house" />
+  <img src="https://www.thien.fun/uploads/2021/22ac590b27.jpg" width="600" height="800" alt="Ngu Hanh Son Da Nang Vietnam 2019" title="Duy's house" />
   <figcaption>Duy's house (12019)</figcaption>
 </figure>
 
@@ -784,7 +890,7 @@ World cup qualification, heck, the U22 team too.</p>
 
         <div class="e-content">
          	<figure>
-  <img src="https://thien.fun/uploads/2021/50800f5b40.jpg" alt="Ha Tien" title="Hải tặc island"/>
+  <img src="https://www.thien.fun/uploads/2021/50800f5b40.jpg" alt="Ha Tien" title="Hải tặc island"/>
   <figcaption>Hải tặc island (12017)</figcaption>
 </figure>
 
@@ -800,7 +906,7 @@ World cup qualification, heck, the U22 team too.</p>
 
         <div class="e-content">
          	<figure>
-  <img src="https://thien.fun/uploads/2021/7d805ece6d.jpg" width="600" height="566" alt="agile estimation" title="True story estimation session" />
+  <img src="https://www.thien.fun/uploads/2021/7d805ece6d.jpg" width="600" height="566" alt="agile estimation" title="True story estimation session" />
   <figcaption>True story estimation session (12021)</figcaption>
 </figure>
 
@@ -816,7 +922,7 @@ World cup qualification, heck, the U22 team too.</p>
 
         <div class="e-content">
          	<figure>
-  <img src="https://thien.fun/uploads/2021/69994ad171.jpg" width="600" height="597" alt="Hoi An 2018" title="Hội An" />
+  <img src="https://www.thien.fun/uploads/2021/69994ad171.jpg" width="600" height="597" alt="Hoi An 2018" title="Hội An" />
   <figcaption>Hội An (April, 12018)</figcaption>
 </figure>
 
@@ -843,7 +949,7 @@ World cup qualification, heck, the U22 team too.</p>
 
         <div class="e-content">
          	<figure>
-  <img src="https://thien.fun/uploads/2021/d3e7a7f6ce.jpg" width="600" height="600" alt="Co dai 2018" title="Cỏ dại Pleiku" />
+  <img src="https://www.thien.fun/uploads/2021/d3e7a7f6ce.jpg" width="600" height="600" alt="Co dai 2018" title="Cỏ dại Pleiku" />
   <figcaption>Cỏ dại Pleiku (12018)</figcaption>
 </figure>
 
@@ -872,7 +978,7 @@ World cup qualification, heck, the U22 team too.</p>
 
         <div class="e-content">
          	<figure>
-  <img src="https://thien.fun/uploads/2021/718752f956.jpg" width="600" height="451" alt="Hoa mai Vietnam 2018" title="Hoa mai" />
+  <img src="https://www.thien.fun/uploads/2021/718752f956.jpg" width="600" height="451" alt="Hoa mai Vietnam 2018" title="Hoa mai" />
   <figcaption>Hoa mai (12018)</figcaption>
 </figure>
 
@@ -886,7 +992,7 @@ World cup qualification, heck, the U22 team too.</p>
 
         <div class="e-content">
          	<figure>
-  <img src="https://thien.fun/uploads/2021/46be27b493.jpg" width="600" height="600" alt="Tet 2018" title="Tết Pleiku" />
+  <img src="https://www.thien.fun/uploads/2021/46be27b493.jpg" width="600" height="600" alt="Tet 2018" title="Tết Pleiku" />
   <figcaption>Tết Pleiku (12018)</figcaption>
   </figure>
 
@@ -934,7 +1040,7 @@ World cup qualification, heck, the U22 team too.</p>
 
         <div class="e-content">
          	<figure>
-    <img src="https://thien.fun/uploads/2021/f8cafc1304.jpg" width="600" height="452" alt="Hoi An Vietnam 2017" title="Hội An" />
+    <img src="https://www.thien.fun/uploads/2021/f8cafc1304.jpg" width="600" height="452" alt="Hoi An Vietnam 2017" title="Hội An" />
   <figcaption>Hội An (12017)</figcaption>
 </figure>
 
@@ -948,7 +1054,7 @@ World cup qualification, heck, the U22 team too.</p>
 
         <div class="e-content">
          	<figure>
-  <img src="https://thien.fun/uploads/2021/67f8e0506e.jpg" width="600" height="696" alt="Cong ca phe Da Nang 2021" title="Cộng cà phê" />
+  <img src="https://www.thien.fun/uploads/2021/67f8e0506e.jpg" width="600" height="696" alt="Cong ca phe Da Nang 2021" title="Cộng cà phê" />
   <figcaption>Cộng cà phê, Đà Nẵng (12021)</figcaption>
 </figure>
 
