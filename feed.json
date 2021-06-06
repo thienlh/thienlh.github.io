@@ -7,10 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://thien.micro.blog/2021/06/02/nhng-ngi-t.html",
+				"title": "Những người tử tế",
+				"content_html": "<p><a href=\"https://vnexpress.net/tam-ve-cuoi-ngay-cua-chang-trai-ve-tham-bo-4287606.html&quot;\">Tấm vé cuối ngày của chàng trai về thăm bố - VnExpress</a>:</p>\n\n<blockquote>\n<p>Sau khi anh Trí lo xong giấy tờ hỗ trợ bay, đến lượt Thu Thảo làm thủ tục xuất vé thì chàng trai khựng lại, hỏi: \"Vé bây giờ nhiều tiền không?\".</p>\n<p>Thảo báo giá vé thấp nhất cho chuyến bay cuối cùng lúc 17h50 về sân bay Nội Bài, Hà Nội là 900.000 đồng. Phương móc trong chiếc túi đựng vé số cũ mèm ra một xấp tiền tiền lẻ và nói đây là toàn bộ \"gia tài\" của mình. Chị Thảo đếm được tổng cộng 350.000 đồng.</p>\n<p>Chàng trai tần ngần rồi nhờ chị Thảo giữ hộ số tiền còn mình định bắt xe ôm về quận 7 vay tiền của bạn rồi quay lại mua vé.</p>\n</blockquote>\n<blockquote>\n<p>Biết thiếu nhưng ảnh không hề hỏi hay nhờ ai ủng hộ mà định quay về đi vay tiền. Tôi thấy rất đáng quý nên cùng mọi người quyết định giúp\", Thu Thảo nói.</p>\n</blockquote>\n<blockquote>\n<p>Sau khi nhận vé và lên phòng chờ, anh Phương bịn rịn nói lời cám ơn nhiều lần và hỏi tên mọi người.</p>\n</blockquote>\n\n<p>Câu chuyện về không những một mà nhiều người tử tế. Không những tử tế mà còn tự trọng.</p>\n",
+				"content_text": "[Tấm vé cuối ngày của chàng trai về thăm bố - VnExpress][1]:\n\n<blockquote>\n<p>Sau khi anh Trí lo xong giấy tờ hỗ trợ bay, đến lượt Thu Thảo làm thủ tục xuất vé thì chàng trai khựng lại, hỏi: \"Vé bây giờ nhiều tiền không?\".</p>\n<p>Thảo báo giá vé thấp nhất cho chuyến bay cuối cùng lúc 17h50 về sân bay Nội Bài, Hà Nội là 900.000 đồng. Phương móc trong chiếc túi đựng vé số cũ mèm ra một xấp tiền tiền lẻ và nói đây là toàn bộ \"gia tài\" của mình. Chị Thảo đếm được tổng cộng 350.000 đồng.</p>\n<p>Chàng trai tần ngần rồi nhờ chị Thảo giữ hộ số tiền còn mình định bắt xe ôm về quận 7 vay tiền của bạn rồi quay lại mua vé.</p>\n</blockquote>\n<blockquote>\n<p>Biết thiếu nhưng ảnh không hề hỏi hay nhờ ai ủng hộ mà định quay về đi vay tiền. Tôi thấy rất đáng quý nên cùng mọi người quyết định giúp\", Thu Thảo nói.</p>\n</blockquote>\n<blockquote>\n<p>Sau khi nhận vé và lên phòng chờ, anh Phương bịn rịn nói lời cám ơn nhiều lần và hỏi tên mọi người.</p>\n</blockquote>\n\nCâu chuyện về không những một mà nhiều người tử tế. Không những tử tế mà còn tự trọng.\n\n[1]: https://vnexpress.net/tam-ve-cuoi-ngay-cua-chang-trai-ve-tham-bo-4287606.html\"\n",
+				"date_published": "2021-06-02T19:02:00+07:00",
+				"url": "http://www.thien.fun/2021/06/02/nhng-ngi-t.html",
+				"tags": ["vietnamese"]
+			},
+			{
+				"id": "http://thien.micro.blog/2021/06/01/the-testing-hill.html",
+				"title": "The Testing Hill Tim Bray Would Die On",
+				"content_html": "<p><a href=\"https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021\">Testing in the Twenties - Tim Bray</a>:</p>\n\n<blockquote>\n<ol>\n<li>Unit tests are an essential investment in your software’s future.<br /></li>\n<li>Test coverage data is useful and you should keep an eye on it.<br /></li>\n<li>Untested legacy code bases can and should be improved incrementally<br /></li>\n<li>Unit tests need to run very quickly with a single IDE key-combo, and it’s perfectly OK to run them every few seconds like a nervous tic.<br /></li>\n<li>There’s no room for testing religions; do what works.<br /></li>\n<li>Unit tests empower code reviewers.<br /></li>\n<li>Integration tests are super important and super hard, particularly in a microservices context.<br /></li>\n<li>Integration tests need to pass 100%, it’s not OK for there to be failures that are ignored.<br /></li>\n<li>Integration tests need to run “fast enough“.<br /></li>\n<li>It’s good for tests to include benchmarks.<br /></li>\n</ol>\n</blockquote>\n\n<p>I think we&rsquo;ve just had a new Testing manifesto. Agree with <em>most</em> of the explanations to those ten points too.</p>\n\n<p><strong>Update</strong>: There is <a href=\"https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021#c1622579790.996764\">a great comment from Jim</a>:</p>\n\n<blockquote>\n<p>Nice article. I&rsquo;d say I have 2 peeves though.</p>\n\n<p>One is your comments about TDD. No offence, but I&rsquo;ve seen similar remarks a lot, and you&rsquo;re a bit offbase there. The reason you don&rsquo;t TDD early on is precisely the same reason I&rsquo;m pretty strict about it. I&rsquo;ve noticed that (the more reasonable of) those of us that are, treat TDD mostly as a design exercise, not a testing one. We just get tests as a bonus. And of course, sometimes the tests need to change, and some I throw away. Your perspective sounds like that of many other people I&rsquo;ve worked with who are looking at it wrong. Something to consider, maybe.</p>\n\n<p>I also do &ldquo;exploratory testing&rdquo; when trying out new libraries, techniques etc, especially in spikes. I find it helps to keep the crap tests then, as a warning for later :-)</p>\n\n<p>Secondly, I think needing to make private methods public in order to test them is a code smell. Almost all the time, there is another class trying to get out. Somewhat more rarely, there is code in private methods that cannot be exercised by calling the public ones, which means there is unnecessary code in the private ones, and it can safely be removed. It&rsquo;s not that I&rsquo;ve never done this, but I can&rsquo;t remember how long ago the last time was.</p>\n\n<p>Everything else I think is very well expressed.</p>\n</blockquote>\n\n<p>I have very similar thoughts to Jim&rsquo;s while reading this article.</p>\n\n<p>We should think of TDD as a helpful practice (for some people) to create well-designed, well-tested code instead of considering it &ldquo;the best and only way to archive <a href=\"https://www.martinfowler.com/bliki/SelfTestingCode.html\">self-testing code</a>.&rdquo;</p>\n\n<p>I do make private methods/properties internal to test their internal state sometimes because it&rsquo;s easier that way. However, I have to think about those cases a lot and also consider them code smells.</p>\n\n<p>Thanks a lot guys.</p>\n\n<p><strong>Another update</strong>: Very quickly, Mr. Fowler himself <a href=\"https://martinfowler.com/articles/2021-test-shapes.html\">steps up and publish his take</a> on the subject.</p>\n\n<p>And as usual, he points out the exact problem - very clearly with pictures. Please go ahead and read the whole thing since quoting his entire post would be weird.</p>\n\n<p>Thanks again, guys!</p>\n",
+				"content_text": "[Testing in the Twenties - Tim Bray][1]:\n\n> 1. Unit tests are an essential investment in your software’s future.   \n> 2. Test coverage data is useful and you should keep an eye on it.   \n> 3. Untested legacy code bases can and should be improved incrementally   \n> 4. Unit tests need to run very quickly with a single IDE key-combo, and it’s perfectly OK to run them every few seconds like a nervous tic.   \n> 5. There’s no room for testing religions; do what works.   \n> 6. Unit tests empower code reviewers.   \n> 7. Integration tests are super important and super hard, particularly in a microservices context.   \n> 8. Integration tests need to pass 100%, it’s not OK for there to be failures that are ignored.   \n> 9. Integration tests need to run “fast enough“.    \n> 10. It’s good for tests to include benchmarks.   \n\nI think we've just had a new Testing manifesto. Agree with _most_ of the explanations to those ten points too.\n\n__Update__: There is [a great comment from Jim][2]:\n\n> Nice article. I'd say I have 2 peeves though.\n> \n> One is your comments about TDD. No offence, but I've seen similar remarks a lot, and you're a bit offbase there. The reason you don't TDD early on is precisely the same reason I'm pretty strict about it. I've noticed that (the more reasonable of) those of us that are, treat TDD mostly as a design exercise, not a testing one. We just get tests as a bonus. And of course, sometimes the tests need to change, and some I throw away. Your perspective sounds like that of many other people I've worked with who are looking at it wrong. Something to consider, maybe.\n> \n> I also do \"exploratory testing\" when trying out new libraries, techniques etc, especially in spikes. I find it helps to keep the crap tests then, as a warning for later :-)\n> \n> Secondly, I think needing to make private methods public in order to test them is a code smell. Almost all the time, there is another class trying to get out. Somewhat more rarely, there is code in private methods that cannot be exercised by calling the public ones, which means there is unnecessary code in the private ones, and it can safely be removed. It's not that I've never done this, but I can't remember how long ago the last time was.\n> \n> Everything else I think is very well expressed.\n\nI have very similar thoughts to Jim's while reading this article.\n\nWe should think of TDD as a helpful practice (for some people) to create well-designed, well-tested code instead of considering it \"the best and only way to archive [self-testing code][4].\"\n\nI do make private methods/properties internal to test their internal state sometimes because it's easier that way. However, I have to think about those cases a lot and also consider them code smells.\n\nThanks a lot guys.\n\n__Another update__: Very quickly, Mr. Fowler himself [steps up and publish his take][3] on the subject.\n\nAnd as usual, he points out the exact problem - very clearly with pictures. Please go ahead and read the whole thing since quoting his entire post would be weird.\n\nThanks again, guys!\n\n[1]: https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021\n[2]: https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021#c1622579790.996764\n[3]: https://martinfowler.com/articles/2021-test-shapes.html\n[4]: https://www.martinfowler.com/bliki/SelfTestingCode.html\n",
+				"date_published": "2021-06-01T21:47:00+07:00",
+				"url": "http://www.thien.fun/2021/06/01/the-testing-hill.html",
+				"tags": ["programming"]
+			},
+			{
+				"id": "http://thien.micro.blog/2021/05/30/chelsea-won-again.html",
+				"title": "Chelsea Won, Again!",
+				"content_html": "<p><a href=\"https://en.wikipedia.org/wiki/Roman_Abramovich\">Roman Abramovich</a>: See? This sacking thing <em>really</em> works!</p>\n",
+				"content_text": "[Roman Abramovich](https://en.wikipedia.org/wiki/Roman_Abramovich): See? This sacking thing _really_ works!\n",
+				"date_published": "2021-05-30T04:34:16+07:00",
+				"url": "http://www.thien.fun/2021/05/30/chelsea-won-again.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://thien.micro.blog/2021/05/29/my-alltime-favorite.html",
+				
+				"content_html": "<figure>\n  <img src=\"uploads/2021/cda2ecd958.jpg\" width=\"600\" height=\"450\" alt=\"Son Tra, Da Nang 2017\" title=\"Fish market before the storm\" />\n  <figcaption>My all-time favorite picture. Sơn Trà (12017)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\r\n  <img src=\"uploads/2021/cda2ecd958.jpg\" width=\"600\" height=\"450\" alt=\"Son Tra, Da Nang 2017\" title=\"Fish market before the storm\" />\r\n  <figcaption>My all-time favorite picture. Sơn Trà (12017)</figcaption>\r\n</figure>\n",
+				"date_published": "2021-05-29T23:23:02+07:00",
+				"url": "http://www.thien.fun/2021/05/29/my-alltime-favorite.html",
+				"tags": ["photography"]
+			},
+			{
 				"id": "http://thien.micro.blog/2021/05/28/tragedies-are-everywhere.html",
 				"title": "Tragedies are everywhere",
-				"content_html": "<p><a href=\"https://www.nytimes.com/interactive/2021/05/26/world/asia/orphan-girl-china.html\">The Tragedy in Small-Town China by The New York Times</a>:</p>\n\n<p>Every once in a while, I stumble upon a great story. A long time ago is <a href=\"https://www.theverge.com/2014/1/21/5307992/inside-the-mind-of-a-fanboy\">Fanboys by The Verge</a>. Now is this piece from the Times.</p>\n\n<p>Both of them are great for very similar reasons, the visuals are <em>eye-opening</em>, the reportings are <em>phenomenal</em>, and the problems they reported are <em>real</em>.</p>\n",
-				"content_text": "[The Tragedy in Small-Town China by The New York Times](https://www.nytimes.com/interactive/2021/05/26/world/asia/orphan-girl-china.html):\n\nEvery once in a while, I stumble upon a great story. A long time ago is [Fanboys by The Verge](https://www.theverge.com/2014/1/21/5307992/inside-the-mind-of-a-fanboy). Now is this piece from the Times. \n\nBoth of them are great for very similar reasons, the visuals are _eye-opening_, the reportings are _phenomenal_, and the problems they reported are _real_.\n",
+				"content_html": "<p><a href=\"https://www.nytimes.com/interactive/2021/05/26/world/asia/orphan-girl-china.html\">The Tragedy in Small-Town China by The New York Times</a>:</p>\n\n<p>Every once in a while, I stumble upon a great story. A very long time ago is <a href=\"https://www.theverge.com/2014/1/21/5307992/inside-the-mind-of-a-fanboy\">Fanboys by The Verge</a>. Now is this piece from the Times.</p>\n\n<p>Both of them are great for similar reasons, the visuals are <em>eye-opening</em>, the reportings are <em>phenomenal</em>, and the problems they reported are <em>real</em>.</p>\n",
+				"content_text": "[The Tragedy in Small-Town China by The New York Times](https://www.nytimes.com/interactive/2021/05/26/world/asia/orphan-girl-china.html):\n\nEvery once in a while, I stumble upon a great story. A very long time ago is [Fanboys by The Verge](https://www.theverge.com/2014/1/21/5307992/inside-the-mind-of-a-fanboy). Now is this piece from the Times. \n\nBoth of them are great for similar reasons, the visuals are _eye-opening_, the reportings are _phenomenal_, and the problems they reported are _real_.\n",
 				"date_published": "2021-05-28T07:47:00+07:00",
 				"url": "http://www.thien.fun/2021/05/28/tragedies-are-everywhere.html",
 				"tags": ["life"]
@@ -45,8 +81,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/05/20/i-can-design.html",
 				"title": "I can design my own work schedule",
-				"content_html": "<p><a href=\"https://world.hey.com/jason/active-away-how-about-neither-ed70fd69\">Active? Away? How about neither - Jason Fried</a>:</p>\n\n<blockquote>\n<p>Everyone’s status should be implicit: I’m trying to do my job, please respect my time and attention.</p>\n</blockquote>\n\n<p>For me it is very simple:</p>\n\n<ul>\n  <li>I will turn off my availability and status on instant messaging apps.</li>\n  <li>\n    We should choose asynchronous communication over synchronous communication\n    whenever possible.\n  </li>\n  <li>If you want to know when I'm available, ask nicely.</li>\n  <li>\n    If you don't trust my ability to design my own work schedule, why bother\n    hiring me at all? We better not working together.\n  </li>\n</ul>\n\n<p>In general, if you treat someone like a 13 years old, she will behave like a 13 years old; if you treat a 13 years old like an adult, she will try her best to behave like an adult.</p>\n",
-				"content_text": "[Active? Away? How about neither - Jason Fried](https://world.hey.com/jason/active-away-how-about-neither-ed70fd69):\n\n> Everyone’s status should be implicit: I’m trying to do my job, please respect my time and attention.\n\nFor me it is very simple:\n\n<ul>\n  <li>I will turn off my availability and status on instant messaging apps.</li>\n  <li>\n    We should choose asynchronous communication over synchronous communication\n    whenever possible.\n  </li>\n  <li>If you want to know when I'm available, ask nicely.</li>\n  <li>\n    If you don't trust my ability to design my own work schedule, why bother\n    hiring me at all? We better not working together.\n  </li>\n</ul>\n\nIn general, if you treat someone like a 13 years old, she will behave like a 13 years old; if you treat a 13 years old like an adult, she will try her best to behave like an adult.\n",
+				"content_html": "<p><a href=\"https://world.hey.com/jason/active-away-how-about-neither-ed70fd69\">Active? Away? How about neither - Jason Fried</a>:</p>\n\n<blockquote>\n<p>Everyone’s status should be implicit: I’m trying to do my job, please respect my time and attention.</p>\n</blockquote>\n\n<p>For me it is very simple:</p>\n\n<ul>\n<li>I will turn off my availability and status on instant messaging apps.<br /></li>\n<li>We should choose asynchronous communication over synchronous communication whenever possible.<br /></li>\n<li>If you want to know when I&rsquo;m available, ask nicely.<br /></li>\n<li>If you don&rsquo;t trust my ability to design my own work schedule, why bother hiring me at all? We better not working together.<br /></li>\n</ul>\n\n<p>In general, if you treat someone like a 13 years old, she will behave like a 13 years old; if you treat a 13 years old like an adult, she will try her best to behave like an adult.</p>\n",
+				"content_text": "[Active? Away? How about neither - Jason Fried](https://world.hey.com/jason/active-away-how-about-neither-ed70fd69):\n\n> Everyone’s status should be implicit: I’m trying to do my job, please respect my time and attention.\n\nFor me it is very simple:\n\n* I will turn off my availability and status on instant messaging apps.   \n* We should choose asynchronous communication over synchronous communication whenever possible.   \n* If you want to know when I'm available, ask nicely.   \n* If you don't trust my ability to design my own work schedule, why bother hiring me at all? We better not working together.   \n\nIn general, if you treat someone like a 13 years old, she will behave like a 13 years old; if you treat a 13 years old like an adult, she will try her best to behave like an adult.\n",
 				"date_published": "2021-05-20T22:26:00+07:00",
 				"url": "http://www.thien.fun/2021/05/20/i-can-design.html",
 				"tags": ["life"]
@@ -63,8 +99,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/05/16/just-finished-reading.html",
 				"title": "Don't scar on the first cut",
-				"content_html": "<p>Just finished reading <a href=\"https://basecamp.com/books/rework\">REWORK by Basecamp&rsquo;s founders Jason Fried &amp; David Heinemeier Hansson (DHH)</a>, Don&rsquo;t scar on the first cut is the part that stuck with me for some reason:</p>\n\n<blockquote>\n<p>The second something goes wrong, the nature tendency is to create a policy. &ldquo;Someone&rsquo;s wearing shorts!? We need a dress code!&rdquo; No, you don&rsquo;t. You just need to tell John to not to wear shorts again.</p>\n\n<p>Policies are organizational scar tissue. They are codified overreactions to situations that are unlikely to happen again. They are collective punishment for the misdeeds of an individual.</p>\n</blockquote>\n\n<p>And what&rsquo;s wrong with wearing shorts to work?</p>\n",
-				"content_text": "Just finished reading [REWORK by Basecamp's founders Jason Fried & David Heinemeier Hansson (DHH)](https://basecamp.com/books/rework), Don't scar on the first cut is the part that stuck with me for some reason:\n\n> The second something goes wrong, the nature tendency is to create a policy. \"Someone's wearing shorts!? We need a dress code!\" No, you don't. You just need to tell John to not to wear shorts again.\n>\n> Policies are organizational scar tissue. They are codified overreactions to situations that are unlikely to happen again. They are collective punishment for the misdeeds of an individual.\n\nAnd what's wrong with wearing shorts to work?\n",
+				"content_html": "<p>Just finished reading <a href=\"https://basecamp.com/books/rework\">REWORK</a> by Basecamp&rsquo;s founders Jason Fried &amp; David Heinemeier Hansson (DHH), Don&rsquo;t scar on the first cut is the part that stuck with me for some reason:</p>\n\n<blockquote>\n<p>The second something goes wrong, the nature tendency is to create a policy. &ldquo;Someone&rsquo;s wearing shorts!? We need a dress code!&rdquo; No, you don&rsquo;t. You just need to tell John to not to wear shorts again.</p>\n\n<p>Policies are organizational scar tissue. They are codified overreactions to situations that are unlikely to happen again. They are collective punishment for the misdeeds of an individual.</p>\n</blockquote>\n\n<p>By the way, what&rsquo;s wrong with wearing shorts to work?</p>\n",
+				"content_text": "Just finished reading [REWORK](https://basecamp.com/books/rework) by Basecamp's founders Jason Fried & David Heinemeier Hansson (DHH), Don't scar on the first cut is the part that stuck with me for some reason:\n\n> The second something goes wrong, the nature tendency is to create a policy. \"Someone's wearing shorts!? We need a dress code!\" No, you don't. You just need to tell John to not to wear shorts again.\n>\n> Policies are organizational scar tissue. They are codified overreactions to situations that are unlikely to happen again. They are collective punishment for the misdeeds of an individual.\n\nBy the way, what's wrong with wearing shorts to work?\n",
 				"date_published": "2021-05-16T16:55:00+07:00",
 				"url": "http://www.thien.fun/2021/05/16/just-finished-reading.html",
 				"tags": ["life"]
@@ -72,8 +108,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/05/03/with-her.html",
 				
-				"content_html": "<figure>\n    <img src=\"uploads/2021/32af3c4733.jpg\" width=\"600\" height=\"823\" alt=\"Hoi An 2017\" title=\"With her\" />\n    <figcaption>With her (12017)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n\t<img src=\"uploads/2021/32af3c4733.jpg\" width=\"600\" height=\"823\" alt=\"Hoi An 2017\" title=\"With her\" />\n\t<figcaption>With her (12017)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n    <img src=\"https://www.thien.fun/uploads/2021/32af3c4733.jpg\" width=\"600\" height=\"823\" alt=\"Hoi An 2017\" title=\"With her\" />\n    <figcaption>With her (12017)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n\t<img src=\"https://www.thien.fun/uploads/2021/32af3c4733.jpg\" width=\"600\" height=\"823\" alt=\"Hoi An 2017\" title=\"With her\" />\n\t<figcaption>With her (12017)</figcaption>\n</figure>\n",
 				"date_published": "2021-05-03T21:35:51+07:00",
 				"url": "http://www.thien.fun/2021/05/03/with-her.html",
 				"tags": ["photography"]
@@ -81,8 +117,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/04/30/watching-you.html",
 				
-				"content_html": "<figure>\n    <img src=\"uploads/2021/03b8972ef3.jpg\" width=\"600\" height=\"833\" alt=\"baby girl 2021\" title=\"Watching you\" />\n    <figcaption>Watching you (12021)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n    <img src=\"uploads/2021/03b8972ef3.jpg\" width=\"600\" height=\"833\" alt=\"baby girl 2021\" title=\"Watching you\" />\n    <figcaption>Watching you (12021)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n    <img src=\"https://www.thien.fun/uploads/2021/03b8972ef3.jpg\" width=\"600\" height=\"833\" alt=\"baby girl 2021\" title=\"Watching you\" />\n    <figcaption>Watching you (12021)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n    <img src=\"https://www.thien.fun/uploads/2021/03b8972ef3.jpg\" width=\"600\" height=\"833\" alt=\"baby girl 2021\" title=\"Watching you\" />\n    <figcaption>Watching you (12021)</figcaption>\n</figure>\n",
 				"date_published": "2021-04-30T23:59:00+07:00",
 				"url": "http://www.thien.fun/2021/04/30/watching-you.html",
 				"tags": ["photography"]
@@ -171,8 +207,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/04/18/where-theres-a.html",
 				
-				"content_html": "<figure>\n    <img src=\"uploads/2021/be6ab73873.jpg\" width=\"600\" height=\"598\" alt=\"Book street Ho Chi Minh city Vietnam 2017\" title=\"Where there's a will - there's a way\"/>\n    <figcaption>Where there's a will - there's a way (12017)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n\t<img src=\"uploads/2021/be6ab73873.jpg\" width=\"600\" height=\"598\" alt=\"Book street Ho Chi Minh city Vietnam 2017\" title=\"Where there's a will - there's a way\"/>\n\t<figcaption>Where there's a will - there's a way (12017)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n    <img src=\"https://www.thien.fun/uploads/2021/be6ab73873.jpg\" width=\"600\" height=\"598\" alt=\"Book street Ho Chi Minh city Vietnam 2017\" title=\"Where there's a will - there's a way\"/>\n    <figcaption>Where there's a will - there's a way (12017)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n\t<img src=\"https://www.thien.fun/uploads/2021/be6ab73873.jpg\" width=\"600\" height=\"598\" alt=\"Book street Ho Chi Minh city Vietnam 2017\" title=\"Where there's a will - there's a way\"/>\n\t<figcaption>Where there's a will - there's a way (12017)</figcaption>\n</figure>\n",
 				"date_published": "2021-04-18T00:23:00+07:00",
 				"url": "http://www.thien.fun/2021/04/18/where-theres-a.html",
 				"tags": ["photography"]
@@ -207,8 +243,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/04/11/h-tin.html",
 				
-				"content_html": "<figure>\n  <img\n    src=\"https://thien.fun/uploads/2021/743930bd89.jpg\"\n    width=\"600\"\n    height=\"449\"\n    alt=\"Ha Tien Vietnam 2017\"\n    title=\"Đảo Hải tặc\"\n  />\n  <figcaption>Hà Tiên (12017)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n  <img\n    src=\"https://thien.fun/uploads/2021/743930bd89.jpg\"\n    width=\"600\"\n    height=\"449\"\n    alt=\"Ha Tien Vietnam 2017\"\n\ttitle=\"Đảo Hải tặc\"\n  />\n  <figcaption>Hà Tiên (12017)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n  <img\n    src=\"https://www.thien.fun/uploads/2021/743930bd89.jpg\"\n    width=\"600\"\n    height=\"449\"\n    alt=\"Ha Tien Vietnam 2017\"\n    title=\"Đảo Hải tặc\"\n  />\n  <figcaption>Hà Tiên (12017)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n  <img\n    src=\"https://www.thien.fun/uploads/2021/743930bd89.jpg\"\n    width=\"600\"\n    height=\"449\"\n    alt=\"Ha Tien Vietnam 2017\"\n\ttitle=\"Đảo Hải tặc\"\n  />\n  <figcaption>Hà Tiên (12017)</figcaption>\n</figure>\n",
 				"date_published": "2021-04-11T09:48:00+07:00",
 				"url": "http://www.thien.fun/2021/04/11/h-tin.html",
 				"tags": ["photography"]
@@ -216,8 +252,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/04/09/indie-developer-and.html",
 				"title": "Indie developers and the lack of a price tag",
-				"content_html": "<p><a href=\"https://inessential.com/2021/04/07/the_lack_of_a_price_tag_seems_almost_criminal\">The lack of a price tag seems almost criminal - inessential by Brent Simmons</a>:</p>\n\n<blockquote>\n<p>I should explain: (NetNewsWire) is better — <em>much</em> better — than it would be if it were a for-pay app. If it were a for-pay app, it would be just me working on it instead of this great team of volunteers. There probably wouldn’t be an iOS version at all: it would be Mac-only. The kind of features I don’t enjoy doing, such as the Twitter and Reddit integration (and others), wouldn’t even exist.</p>\n\n<p>And it would be slow going. NetNewsWire 5 would have shipped much later than it did, and NetNewsWire 6 would not have shipped until next year, probably.</p>\n\n<p>Instead, because it’s open source, we have this amazing team of people willing to work on it in their spare time. During a pandemic and everything. They’re bringing you something great out of love, with the goal of writing an app of the highest quality.</p>\n\n<p>We don’t have to rush and Ship Right Now in order to make our revenue numbers. We don’t have to pick feature X over feature Y because we think it will bring in more conversions. We can care about performance and efficiency; we can say no to things that might have made money but that are outside our vision.</p>\n\n<p>There’s nothing wrong with commercial software — NetNewsWire was commercial software for many, many years — but it’s also a great freedom to us that it’s <em>not</em>. And it allows us to make something much greater than I would have made all on my own.</p>\n</blockquote>\n\n<p>I have a feeling that this is the exact situation that the great text editor <a href=\"https://macromates.com\">TextMate</a> is in, and they are going in this direction as well.</p>\n\n<p>The sad part is:</p>\n\n<blockquote>\n<p>(Why all on my own? Because, these days, a Mac and iOS RSS reader is not going to bring in enough revenue to pay for a team greater than one. And even paying one full salary plus health insurance would have been a hell of a longshot.)</p>\n</blockquote>\n\n<p>Anyway, <a href=\"https://github.com/Ranchero-Software/NetNewsWire/blob/main/Technotes/HowToSupportNetNewsWire.markdown\">let&rsquo;s support NetNewsWire</a>. (Don&rsquo;t send money!)</p>\n",
-				"content_text": "[The lack of a price tag seems almost criminal - inessential by Brent Simmons](https://inessential.com/2021/04/07/the_lack_of_a_price_tag_seems_almost_criminal):\n\n> I should explain: (NetNewsWire) is better — _much_ better — than it would be if it were a for-pay app. If it were a for-pay app, it would be just me working on it instead of this great team of volunteers. There probably wouldn’t be an iOS version at all: it would be Mac-only. The kind of features I don’t enjoy doing, such as the Twitter and Reddit integration (and others), wouldn’t even exist.\n> \n> And it would be slow going. NetNewsWire 5 would have shipped much later than it did, and NetNewsWire 6 would not have shipped until next year, probably.\n> \n> Instead, because it’s open source, we have this amazing team of people willing to work on it in their spare time. During a pandemic and everything. They’re bringing you something great out of love, with the goal of writing an app of the highest quality.\n> \n> We don’t have to rush and Ship Right Now in order to make our revenue numbers. We don’t have to pick feature X over feature Y because we think it will bring in more conversions. We can care about performance and efficiency; we can say no to things that might have made money but that are outside our vision.\n> \n> There’s nothing wrong with commercial software — NetNewsWire was commercial software for many, many years — but it’s also a great freedom to us that it’s _not_. And it allows us to make something much greater than I would have made all on my own.\n\nI have a feeling that this is the exact situation that the great text editor [TextMate](https://macromates.com) is in, and they are going in this direction as well.\n\nThe sad part is:\n\n> (Why all on my own? Because, these days, a Mac and iOS RSS reader is not going to bring in enough revenue to pay for a team greater than one. And even paying one full salary plus health insurance would have been a hell of a longshot.)\n\nAnyway, [let's support NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire/blob/main/Technotes/HowToSupportNetNewsWire.markdown). (Don't send money!)\n",
+				"content_html": "<p><a href=\"https://inessential.com/2021/04/07/the_lack_of_a_price_tag_seems_almost_criminal\">The lack of a price tag seems almost criminal - inessential by Brent Simmons</a>:</p>\n\n<blockquote>\n<p>I should explain: (NetNewsWire) is better — <em>much</em> better — than it would be if it were a for-pay app. If it were a for-pay app, it would be just me working on it instead of this great team of volunteers. There probably wouldn’t be an iOS version at all: it would be Mac-only. The kind of features I don’t enjoy doing, such as the Twitter and Reddit integration (and others), wouldn’t even exist.</p>\n\n<p>And it would be slow going. NetNewsWire 5 would have shipped much later than it did, and NetNewsWire 6 would not have shipped until next year, probably.</p>\n\n<p>Instead, because it’s open source, we have this amazing team of people willing to work on it in their spare time. During a pandemic and everything. They’re bringing you something great out of love, with the goal of writing an app of the highest quality.</p>\n\n<p>We don’t have to rush and Ship Right Now in order to make our revenue numbers. We don’t have to pick feature X over feature Y because we think it will bring in more conversions. We can care about performance and efficiency; we can say no to things that might have made money but that are outside our vision.</p>\n\n<p>There’s nothing wrong with commercial software — NetNewsWire was commercial software for many, many years — but it’s also a great freedom to us that it’s <em>not</em>. And it allows us to make something much greater than I would have made all on my own.</p>\n</blockquote>\n\n<p>I have a feeling that this is the exact situation that <a href=\"https://macromates.com\">the great text editor TextMate</a> is in, and they are going in this direction as well.</p>\n\n<p>The sad part is:</p>\n\n<blockquote>\n<p>(Why all on my own? Because, these days, a Mac and iOS RSS reader is not going to bring in enough revenue to pay for a team greater than one. And even paying one full salary plus health insurance would have been a hell of a longshot.)</p>\n</blockquote>\n\n<p>Anyway, <a href=\"https://github.com/Ranchero-Software/NetNewsWire/blob/main/Technotes/HowToSupportNetNewsWire.markdown\">let&rsquo;s support NetNewsWire</a>. (Don&rsquo;t send money!)</p>\n",
+				"content_text": "[The lack of a price tag seems almost criminal - inessential by Brent Simmons](https://inessential.com/2021/04/07/the_lack_of_a_price_tag_seems_almost_criminal):\n\n> I should explain: (NetNewsWire) is better — _much_ better — than it would be if it were a for-pay app. If it were a for-pay app, it would be just me working on it instead of this great team of volunteers. There probably wouldn’t be an iOS version at all: it would be Mac-only. The kind of features I don’t enjoy doing, such as the Twitter and Reddit integration (and others), wouldn’t even exist.\n> \n> And it would be slow going. NetNewsWire 5 would have shipped much later than it did, and NetNewsWire 6 would not have shipped until next year, probably.\n> \n> Instead, because it’s open source, we have this amazing team of people willing to work on it in their spare time. During a pandemic and everything. They’re bringing you something great out of love, with the goal of writing an app of the highest quality.\n> \n> We don’t have to rush and Ship Right Now in order to make our revenue numbers. We don’t have to pick feature X over feature Y because we think it will bring in more conversions. We can care about performance and efficiency; we can say no to things that might have made money but that are outside our vision.\n> \n> There’s nothing wrong with commercial software — NetNewsWire was commercial software for many, many years — but it’s also a great freedom to us that it’s _not_. And it allows us to make something much greater than I would have made all on my own.\n\nI have a feeling that this is the exact situation that [the great text editor TextMate](https://macromates.com) is in, and they are going in this direction as well.\n\nThe sad part is:\n\n> (Why all on my own? Because, these days, a Mac and iOS RSS reader is not going to bring in enough revenue to pay for a team greater than one. And even paying one full salary plus health insurance would have been a hell of a longshot.)\n\nAnyway, [let's support NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire/blob/main/Technotes/HowToSupportNetNewsWire.markdown). (Don't send money!)\n",
 				"date_published": "2021-04-09T17:56:00+07:00",
 				"url": "http://www.thien.fun/2021/04/09/indie-developer-and.html",
 				"tags": ["programming"]
@@ -243,8 +279,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/04/06/thm-i-du.html",
 				
-				"content_html": "<figure>\n<img src=\"https://thien.fun/uploads/2021/59b4e10aef.jpg\" width=\"592\" height=\"590\" alt=\"Hai tac island ha tien Vietnam\" title=\"Long distance friends\" />\n  <figcaption>Long distance friends (12017)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n<img src=\"https://thien.fun/uploads/2021/59b4e10aef.jpg\" width=\"592\" height=\"590\" alt=\"Hai tac island ha tien Vietnam\" title=\"Long distance friends\" />\n  <figcaption>Long distance friends (12017)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n<img src=\"https://www.thien.fun/uploads/2021/59b4e10aef.jpg\" width=\"592\" height=\"590\" alt=\"Hai tac island ha tien Vietnam\" title=\"Long distance friends\" />\n  <figcaption>Long distance friends (12017)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n<img src=\"https://www.thien.fun/uploads/2021/59b4e10aef.jpg\" width=\"592\" height=\"590\" alt=\"Hai tac island ha tien Vietnam\" title=\"Long distance friends\" />\n  <figcaption>Long distance friends (12017)</figcaption>\n</figure>\n",
 				"date_published": "2021-04-06T19:54:00+07:00",
 				"url": "http://www.thien.fun/2021/04/06/thm-i-du.html",
 				"tags": ["photography"]
@@ -252,8 +288,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/04/01/o-hi-tc.html",
 				
-				"content_html": "<figure>\n    <img src=\"https://thien.fun/uploads/2021/9ea4101402.jpg\" width=\"600\" height=\"799\" alt=\"Father and son hai tac island ha tien vietnam\" title=\"Father and Son\" />\n    <figcaption>Father and Son (12017)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n\t<img src=\"https://thien.fun/uploads/2021/9ea4101402.jpg\" width=\"600\" height=\"799\" alt=\"Father and son hai tac island ha tien vietnam\" title=\"Father and Son\" />\n\t<figcaption>Father and Son (12017)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n    <img src=\"https://www.thien.fun/uploads/2021/9ea4101402.jpg\" width=\"600\" height=\"799\" alt=\"Father and son hai tac island ha tien vietnam\" title=\"Father and Son\" />\n    <figcaption>Father and Son (12017)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n\t<img src=\"https://www.thien.fun/uploads/2021/9ea4101402.jpg\" width=\"600\" height=\"799\" alt=\"Father and son hai tac island ha tien vietnam\" title=\"Father and Son\" />\n\t<figcaption>Father and Son (12017)</figcaption>\n</figure>\n",
 				"date_published": "2021-04-01T18:29:00+07:00",
 				"url": "http://www.thien.fun/2021/04/01/o-hi-tc.html",
 				"tags": ["photography"]
@@ -288,8 +324,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/03/24/cng-c-ph.html",
 				
-				"content_html": "<figure>\n    <img src=\"https://thien.fun/uploads/2021/05e1e6928b.jpg\" alt= \"Cong ca phe Da Nang Vietnam 2017\" title=\"Coffee with her\" />\n    <figcaption>Coffee with her (12017)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n\t<img src=\"https://thien.fun/uploads/2021/05e1e6928b.jpg\" alt= \"Cong ca phe Da Nang Vietnam 2017\" title=\"Coffee with her\" />\n\t<figcaption>Coffee with her (12017)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n    <img src=\"https://www.thien.fun/uploads/2021/05e1e6928b.jpg\" alt= \"Cong ca phe Da Nang Vietnam 2017\" title=\"Coffee with her\" />\n    <figcaption>Coffee with her (12017)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n\t<img src=\"https://www.thien.fun/uploads/2021/05e1e6928b.jpg\" alt= \"Cong ca phe Da Nang Vietnam 2017\" title=\"Coffee with her\" />\n\t<figcaption>Coffee with her (12017)</figcaption>\n</figure>\n",
 				"date_published": "2021-03-24T19:17:00+07:00",
 				"url": "http://www.thien.fun/2021/03/24/cng-c-ph.html",
 				"tags": ["photography"]
@@ -333,8 +369,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/03/13/duys-house.html",
 				
-				"content_html": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/22ac590b27.jpg\" width=\"600\" height=\"800\" alt=\"Ngu Hanh Son Da Nang Vietnam 2019\" title=\"Duy's house\" />\n  <figcaption>Duy's house (12019)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/22ac590b27.jpg\" width=\"600\" height=\"800\" alt=\"Ngu Hanh Son Da Nang Vietnam 2019\" title=\"Duy's house\" />\n  <figcaption>Duy's house (12019)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n  <img src=\"https://www.thien.fun/uploads/2021/22ac590b27.jpg\" width=\"600\" height=\"800\" alt=\"Ngu Hanh Son Da Nang Vietnam 2019\" title=\"Duy's house\" />\n  <figcaption>Duy's house (12019)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n  <img src=\"https://www.thien.fun/uploads/2021/22ac590b27.jpg\" width=\"600\" height=\"800\" alt=\"Ngu Hanh Son Da Nang Vietnam 2019\" title=\"Duy's house\" />\n  <figcaption>Duy's house (12019)</figcaption>\n</figure>\n",
 				"date_published": "2021-03-13T17:06:00+07:00",
 				"url": "http://www.thien.fun/2021/03/13/duys-house.html",
 				"tags": ["photography"]
@@ -342,8 +378,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/02/28/hi-tc-island.html",
 				
-				"content_html": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/50800f5b40.jpg\" alt=\"Ha Tien\" title=\"Hải tặc island\"/>\n  <figcaption>Hải tặc island (12017)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/50800f5b40.jpg\" alt=\"Ha Tien\" title=\"Hải tặc island\"/>\n  <figcaption>Hải tặc island (12017)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n  <img src=\"https://www.thien.fun/uploads/2021/50800f5b40.jpg\" alt=\"Ha Tien\" title=\"Hải tặc island\"/>\n  <figcaption>Hải tặc island (12017)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n  <img src=\"https://www.thien.fun/uploads/2021/50800f5b40.jpg\" alt=\"Ha Tien\" title=\"Hải tặc island\"/>\n  <figcaption>Hải tặc island (12017)</figcaption>\n</figure>\n",
 				"date_published": "2021-02-28T08:09:00+07:00",
 				"url": "http://www.thien.fun/2021/02/28/hi-tc-island.html",
 				"tags": ["photography"]
@@ -351,8 +387,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/02/24/programming-is-easy.html",
 				"title": "Programming Is Easy",
-				"content_html": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/7d805ece6d.jpg\" width=\"600\" height=\"566\" alt=\"agile estimation\" title=\"True story estimation session\" />\n  <figcaption>True story estimation session (12021)</figcaption>\n</figure>\n\n<p><strong>See also</strong>: <a href=\"https://www.thien.fun/2020/05/17/another-great-programming.html\">Common reasons that software projects fail</a></p>\n",
-				"content_text": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/7d805ece6d.jpg\" width=\"600\" height=\"566\" alt=\"agile estimation\" title=\"True story estimation session\" />\n  <figcaption>True story estimation session (12021)</figcaption>\n</figure>\n\n\n**See also**: [Common reasons that software projects fail](https://www.thien.fun/2020/05/17/another-great-programming.html)\n",
+				"content_html": "<figure>\n  <img src=\"https://www.thien.fun/uploads/2021/7d805ece6d.jpg\" width=\"600\" height=\"566\" alt=\"agile estimation\" title=\"True story estimation session\" />\n  <figcaption>True story estimation session (12021)</figcaption>\n</figure>\n\n<p><strong>See also</strong>: <a href=\"https://www.thien.fun/2020/05/17/another-great-programming.html\">Common reasons that software projects fail</a></p>\n",
+				"content_text": "<figure>\n  <img src=\"https://www.thien.fun/uploads/2021/7d805ece6d.jpg\" width=\"600\" height=\"566\" alt=\"agile estimation\" title=\"True story estimation session\" />\n  <figcaption>True story estimation session (12021)</figcaption>\n</figure>\n\n\n**See also**: [Common reasons that software projects fail](https://www.thien.fun/2020/05/17/another-great-programming.html)\n",
 				"date_published": "2021-02-24T03:57:00+07:00",
 				"url": "http://www.thien.fun/2021/02/24/programming-is-easy.html",
 				"tags": ["programming"]
@@ -360,8 +396,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/02/23/hi-an-april.html",
 				
-				"content_html": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/69994ad171.jpg\" width=\"600\" height=\"597\" alt=\"Hoi An 2018\" title=\"Hội An\" />\n  <figcaption>Hội An (April, 12018)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/69994ad171.jpg\" width=\"600\" height=\"597\" alt=\"Hoi An 2018\" title=\"Hội An\" />\n  <figcaption>Hội An (April, 12018)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n  <img src=\"https://www.thien.fun/uploads/2021/69994ad171.jpg\" width=\"600\" height=\"597\" alt=\"Hoi An 2018\" title=\"Hội An\" />\n  <figcaption>Hội An (April, 12018)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n  <img src=\"https://www.thien.fun/uploads/2021/69994ad171.jpg\" width=\"600\" height=\"597\" alt=\"Hoi An 2018\" title=\"Hội An\" />\n  <figcaption>Hội An (April, 12018)</figcaption>\n</figure>\n",
 				"date_published": "2021-02-23T00:50:52+07:00",
 				"url": "http://www.thien.fun/2021/02/23/hi-an-april.html",
 				"tags": ["photography"]
@@ -378,8 +414,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/02/20/c-di-pleiku.html",
 				
-				"content_html": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/d3e7a7f6ce.jpg\" width=\"600\" height=\"600\" alt=\"Co dai 2018\" title=\"Cỏ dại Pleiku\" />\n  <figcaption>Cỏ dại Pleiku (12018)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/d3e7a7f6ce.jpg\" width=\"600\" height=\"600\" alt=\"Co dai 2018\" title=\"Cỏ dại Pleiku\" />\n  <figcaption>Cỏ dại Pleiku (12018)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n  <img src=\"https://www.thien.fun/uploads/2021/d3e7a7f6ce.jpg\" width=\"600\" height=\"600\" alt=\"Co dai 2018\" title=\"Cỏ dại Pleiku\" />\n  <figcaption>Cỏ dại Pleiku (12018)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n  <img src=\"https://www.thien.fun/uploads/2021/d3e7a7f6ce.jpg\" width=\"600\" height=\"600\" alt=\"Co dai 2018\" title=\"Cỏ dại Pleiku\" />\n  <figcaption>Cỏ dại Pleiku (12018)</figcaption>\n</figure>\n",
 				"date_published": "2021-02-20T21:36:00+07:00",
 				"url": "http://www.thien.fun/2021/02/20/c-di-pleiku.html",
 				"tags": ["photography"]
@@ -396,8 +432,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/02/18/hoa-mai.html",
 				
-				"content_html": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/718752f956.jpg\" width=\"600\" height=\"451\" alt=\"Hoa mai Vietnam 2018\" title=\"Hoa mai\" />\n  <figcaption>Hoa mai (12018)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/718752f956.jpg\" width=\"600\" height=\"451\" alt=\"Hoa mai Vietnam 2018\" title=\"Hoa mai\" />\n  <figcaption>Hoa mai (12018)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n  <img src=\"https://www.thien.fun/uploads/2021/718752f956.jpg\" width=\"600\" height=\"451\" alt=\"Hoa mai Vietnam 2018\" title=\"Hoa mai\" />\n  <figcaption>Hoa mai (12018)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n  <img src=\"https://www.thien.fun/uploads/2021/718752f956.jpg\" width=\"600\" height=\"451\" alt=\"Hoa mai Vietnam 2018\" title=\"Hoa mai\" />\n  <figcaption>Hoa mai (12018)</figcaption>\n</figure>\n",
 				"date_published": "2021-02-18T21:40:00+07:00",
 				"url": "http://www.thien.fun/2021/02/18/hoa-mai.html",
 				"tags": ["photography"]
@@ -405,8 +441,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/02/16/tt-pleiku.html",
 				
-				"content_html": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/46be27b493.jpg\" width=\"600\" height=\"600\" alt=\"Tet 2018\" title=\"Tết Pleiku\" />\n  <figcaption>Tết Pleiku (12018)</figcaption>\n  </figure>\n",
-				"content_text": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/46be27b493.jpg\" width=\"600\" height=\"600\" alt=\"Tet 2018\" title=\"Tết Pleiku\" />\n  <figcaption>Tết Pleiku (12018)</figcaption>\n  </figure>\n",
+				"content_html": "<figure>\n  <img src=\"https://www.thien.fun/uploads/2021/46be27b493.jpg\" width=\"600\" height=\"600\" alt=\"Tet 2018\" title=\"Tết Pleiku\" />\n  <figcaption>Tết Pleiku (12018)</figcaption>\n  </figure>\n",
+				"content_text": "<figure>\n  <img src=\"https://www.thien.fun/uploads/2021/46be27b493.jpg\" width=\"600\" height=\"600\" alt=\"Tet 2018\" title=\"Tết Pleiku\" />\n  <figcaption>Tết Pleiku (12018)</figcaption>\n  </figure>\n",
 				"date_published": "2021-02-16T08:49:15+07:00",
 				"url": "http://www.thien.fun/2021/02/16/tt-pleiku.html",
 				"tags": ["photography"]
@@ -432,8 +468,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/02/13/hi-an.html",
 				
-				"content_html": "<figure>\n    <img src=\"https://thien.fun/uploads/2021/f8cafc1304.jpg\" width=\"600\" height=\"452\" alt=\"Hoi An Vietnam 2017\" title=\"Hội An\" />\n  <figcaption>Hội An (12017)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n\t<img src=\"https://thien.fun/uploads/2021/f8cafc1304.jpg\" width=\"600\" height=\"452\" alt=\"Hoi An Vietnam 2017\" title=\"Hội An\" />\n  <figcaption>Hội An (12017)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n    <img src=\"https://www.thien.fun/uploads/2021/f8cafc1304.jpg\" width=\"600\" height=\"452\" alt=\"Hoi An Vietnam 2017\" title=\"Hội An\" />\n  <figcaption>Hội An (12017)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n\t<img src=\"https://www.thien.fun/uploads/2021/f8cafc1304.jpg\" width=\"600\" height=\"452\" alt=\"Hoi An Vietnam 2017\" title=\"Hội An\" />\n  <figcaption>Hội An (12017)</figcaption>\n</figure>\n",
 				"date_published": "2021-02-13T22:07:00+07:00",
 				"url": "http://www.thien.fun/2021/02/13/hi-an.html",
 				"tags": ["photography"]
@@ -441,8 +477,8 @@
 			{
 				"id": "http://thien.micro.blog/2021/02/13/cng-c-ph.html",
 				
-				"content_html": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/67f8e0506e.jpg\" width=\"600\" height=\"696\" alt=\"Cong ca phe Da Nang 2021\" title=\"Cộng cà phê\" />\n  <figcaption>Cộng cà phê, Đà Nẵng (12021)</figcaption>\n</figure>\n",
-				"content_text": "<figure>\n  <img src=\"https://thien.fun/uploads/2021/67f8e0506e.jpg\" width=\"600\" height=\"696\" alt=\"Cong ca phe Da Nang 2021\" title=\"Cộng cà phê\" />\n  <figcaption>Cộng cà phê, Đà Nẵng (12021)</figcaption>\n</figure>\n",
+				"content_html": "<figure>\n  <img src=\"https://www.thien.fun/uploads/2021/67f8e0506e.jpg\" width=\"600\" height=\"696\" alt=\"Cong ca phe Da Nang 2021\" title=\"Cộng cà phê\" />\n  <figcaption>Cộng cà phê, Đà Nẵng (12021)</figcaption>\n</figure>\n",
+				"content_text": "<figure>\n  <img src=\"https://www.thien.fun/uploads/2021/67f8e0506e.jpg\" width=\"600\" height=\"696\" alt=\"Cong ca phe Da Nang 2021\" title=\"Cộng cà phê\" />\n  <figcaption>Cộng cà phê, Đà Nẵng (12021)</figcaption>\n</figure>\n",
 				"date_published": "2021-02-13T09:01:00+07:00",
 				"url": "http://www.thien.fun/2021/02/13/cng-c-ph.html",
 				"tags": ["photography"]
