@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://thien.micro.blog/2021/08/13/why-is-this.html",
+				
+				"content_html": "<p><a href=\"https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-technical\" title=\"Why is this interesting? - The Technical Debt Edition\">Why is this interesting? - The Technical Debt Edition</a>:</p>\n\n<p>Very interesting article about <a href=\"https://www.martinfowler.com/bliki/TechnicalDebt.html\">technical debt</a>, with a classic lesson from Evernote.</p>\n",
+				"content_text": "[Why is this interesting? - The Technical Debt Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-technical \"Why is this interesting? - The Technical Debt Edition\"):\n\nVery interesting article about [technical debt](https://www.martinfowler.com/bliki/TechnicalDebt.html), with a classic lesson from Evernote.\n\n",
+				"date_published": "2021-08-13T21:40:17+07:00",
+				"url": "http://www.thien.fun/2021/08/13/why-is-this.html",
+				"tags": ["programming"]
+			},
+			{
+				"id": "http://thien.micro.blog/2021/07/27/winners-of-the.html",
+				
+				"content_html": "<p><a href=\"https://www.ippawards.com/\">Winners of the 2021 iPhone Photography Awards</a></p>\n\n<p>Great photos, taken with great camera systems.</p>\n",
+				"content_text": "[Winners of the 2021 iPhone Photography Awards][i]\n\nGreat photos, taken with great camera systems.\n\n[i]: https://www.ippawards.com/\n",
+				"date_published": "2021-07-27T10:25:00+07:00",
+				"url": "http://www.thien.fun/2021/07/27/winners-of-the.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://thien.micro.blog/2021/07/27/oncegreat-company.html",
+				"title": "Once-great company",
+				"content_html": "<p><a href=\"https://www.nytimes.com/2021/07/25/climate/toyota-electric-hydrogen.html\">Toyota Led on Clean Cars. Now Critics Say It Works to Delay Them. - The New York Times</a>:</p>\n\n<blockquote>\n  <p>\n    Together with other automakers, Toyota also sided with the Trump\n    administration in a battle with California over the Clean Air Act and sued\n    Mexico over fuel efficiency rules. In Japan, Toyota officials argued against\n    carbon taxes.\n  </p>\n</blockquote>\n<blockquote>\n  <p>\n    Toyota was the largest corporate donor by far this year to Republicans\n    in Congress who disputed the 2020 presidential election result.\n  </p>\n</blockquote>\n<blockquote>\n  <p>\n    Toyota initially defended its contributions, then changed course, saying it\n    would halt its donations.\n  </p>\n</blockquote>  \n\n<p>Toyota, it&rsquo;s time to <a href=\"https://www.thien.fun/2020/05/11/one-of-my.html\">eliminate some waste</a> inside your organization and on the street.</p>\n",
+				"content_text": "[Toyota Led on Clean Cars. Now Critics Say It Works to Delay Them. - The New York Times][n]:\n\n<blockquote>\n  <p>\n    Together with other automakers, Toyota also sided with the Trump\n    administration in a battle with California over the Clean Air Act and sued\n    Mexico over fuel efficiency rules. In Japan, Toyota officials argued against\n    carbon taxes.\n  </p>\n</blockquote>\n<blockquote>\n  <p>\n    Toyota was the largest corporate donor by far this year to Republicans\n    in Congress who disputed the 2020 presidential election result.\n  </p>\n</blockquote>\n<blockquote>\n  <p>\n    Toyota initially defended its contributions, then changed course, saying it\n    would halt its donations.\n  </p>\n</blockquote>  \n\nToyota, it's time to [eliminate some waste][w] inside your organization and on the street.\n\n[n]: https://www.nytimes.com/2021/07/25/climate/toyota-electric-hydrogen.html\n[w]: https://www.thien.fun/2020/05/11/one-of-my.html\n",
+				"date_published": "2021-07-27T10:15:00+07:00",
+				"url": "http://www.thien.fun/2021/07/27/oncegreat-company.html",
+				"tags": ["technology"]
+			},
+			{
 				"id": "http://thien.micro.blog/2021/07/26/it-doesnt-have.html",
 				
 				"content_html": "<p><a href=\"https://world.hey.com/jason/it-doesn-t-have-to-be-crazy-at-work-66b05283\">It Doesn&rsquo;t Have to Be Crazy at Work - Jason Fried</a>:</p>\n\n<blockquote>\n<p>The answer isn’t more hours, it’s less bullshit.</p>\n</blockquote>\n\n<p><strong>See also</strong>: <a href=\"https://www.thien.fun/2020/05/11/one-of-my.html\">How to go fast</a></p>\n",
